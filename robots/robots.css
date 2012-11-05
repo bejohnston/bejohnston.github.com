@@ -47,11 +47,23 @@ a {
 	background-color:#8B4513;
 	}
 
-ul {postion:relative;
-	padding:5px;
-	color:white;
-	text-transform:uppercase;
-	}
+	
+#main-menu li{
+	float:left;
+	
+	display:block;
+	padding:0px;
+	margin:10px 0px 5px 15px;
+	background-color:white;
+}	
+
+#page { 
+	float:left; 
+	width:60%;
+	background-color:#fffac2;
+	margin:20px 15px;
+	padding:10px;
+}	
 
 
 
