@@ -4,17 +4,33 @@
 	position:relative;
 	}
 	
+#site-header {
+	position:relative;
+	height:120px;
+	background-color:#d4e0a3;
+	}
+	
+#site-header h1 {
+	position:absolute;
+	display:block;
+	width:250px;
+	height:100px;
+	background-color:#d4e0a3;
+	left:15px;
+	}
+	
 #logo {
 	position:left;
 	}
 	
 #top-nav {
-	position:right;
+	position:absolute;
 	width:300px;
 	padding:5px;
 	background-color:purple;
 	font-size:10px;
-	top:10px;
+	top:0px;
+	right:-300px;
 	
 	}
 
