@@ -1,12 +1,11 @@
 h1, h2, h3, body, aside {font-family:helvetica;
 }
 
-h1 float:left; width:600px; padding:50px 20px; }
 nav {text-align:center;
-	 }
+	}
 
 li {float:left;
-	width:85px;
+	width:60px;
 	padding:5px;
 	background-color:;
 	text-decoration:none;
