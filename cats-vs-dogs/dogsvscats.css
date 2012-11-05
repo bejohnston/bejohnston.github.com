@@ -1,7 +1,8 @@
+
  li {
     list-style:none;
     float:left;
-    margin:10px;
+    margin:20px;
     background-color:white;
     padding:7px 14px;
     color:black;
@@ -9,10 +10,9 @@
     font-family:Helvetica;
   }
 
-body {
-		margin:0 auto;
-		width:960px;
-		}
+.Dog { float:left
+			width:50px;}
+
 
 
 /* Meyer Reset */
