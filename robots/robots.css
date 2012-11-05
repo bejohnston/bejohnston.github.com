@@ -1,7 +1,26 @@
-body {
+#site-wrapper {
 	width:960px;
 	margin:0 auto;
+	position:relative;
 	}
+	
+#logo {
+	position:left;
+	}
+	
+#top-nav {
+	position:right;
+	width:300px;
+	padding:5px;
+	background-color:purple;
+	font-size:10px;
+	top:10px;
+	
+	}
+
+a { 
+	text-decoration:none;
+	}	
 
 
 /* Meyer Reset */
