@@ -1,97 +1,8 @@
+body {width:960px;
+	  margin:0 auto;
+	  text-align:center;
+	  }
 
-
-#site-header {
-		background-color:#FAFAD2;
-		position:relative;
-		display:block;
-		margin:0 auto;
-		padding:0px;
-		right:
-		}
-
-	
-#logo {
-
-	}
-	
-#top-nav {
-	position:absolute;
-	width:80px;
-	padding:10px 10px 10px 20px;
-	background-color:white;
-	font-size:10px;
-	top:0px;
-	right:0px;
-	color: #8B4513; 
-	
-	}
-
-a { text-decoration:none;
-	}
-
-#main-menu {
-	position:relative;
-	height:25px;
-	background-color:#8B4513;
-    padding:0px 0px 0px 185px;
-  
-    
-
-	}
-
-	
-#main-menu li{
-	float:left;
-	display:block;
-	padding:0px 0px 0px 10px;
-	margin:5px 0px 5px 50px;
-	background-color:#8B4513;
-	
- 	
-}
-
-#top-nav a {color:#8B4513;}
-
-#main-menu a {
-	text-transform:uppercase;
-	color:white;
-	}	
-	
-
-
-#page {  
-	float:left;
-	width:60%;
-	background-color:white;
-	margin:30px 30px 30px 250px;
-	padding:10px;
-}	
-
-#side-bar {float:right;
-		width:60%
-		paddin:10px;
-		margin:10px;
-		
-		}
-
-#site-footer {
-	clear:both;
-	position:relative;
-	height:150px;
-	background-color:#8B4513;
-}
-
-#footer-content h1 {
-	background-color:white;
-	float:left;
-	width:20%;
-	margin:20px;
-}
-
-
-
-
-/* Meyer Reset */
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -141,3 +52,10 @@ table {
 	border-spacing: 0;
 }
 
+/* Add Styles Here */
+body { font-family:Times; font-size:14px; }
+section#content { margin:0 auto; width:960px; padding:20px 0px; }
+
+h1 { font-size:48px; font-weight:bold; color:black; text-align:center; }
+h2 { font-size:36px; font-weight:bold; color:black; text-align:center; }
+p { padding-bottom:10px; }
