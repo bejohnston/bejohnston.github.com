@@ -2,9 +2,10 @@
 	width:960px;
 	margin:0 auto;
 	position:relative;
-	background-color:#FAFAD2; 
 	}
 	
+
+
 #site-header {
 	position:relative;
 	height:120px;
@@ -32,7 +33,7 @@
 	background-color:#FAFAD2;
 	font-size:10px;
 	top:0px;
-	right:-60px;
+	right:0px;
 	color: #8B4513; 
 	
 	}
@@ -43,19 +44,25 @@ a {
 
 #main-menu {
 	position:relative;
-	height:55px;
+	height:25px;
 	background-color:#8B4513;
+	left:107px;
 	}
 
 	
 #main-menu li{
 	float:left;
-	
 	display:block;
 	padding:0px;
-	margin:10px 0px 5px 15px;
-	background-color:white;
-}	
+	margin:5px 0px 5px 15px;
+	background-color:#8B4513;
+ 	
+}
+
+#main-menu a {
+	text-transform:uppercase;
+	color:white;
+	}	
 
 #page { 
 	float:left; 
