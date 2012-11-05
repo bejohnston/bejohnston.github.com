@@ -2,15 +2,18 @@
 	width:960px;
 	margin:0 auto;
 	position:relative;
+	padding:0px;
+	background-color:red;
 	}
 	
-
+header {background-color:yellow;}
 
 #site-header {
 	position:relative;
 	height:120px;
 	background-color:#FAFAD2;
-	width:900px;
+	width:1100px;
+	left:-100px;
 	}
 	
 #site-header h1 {
@@ -46,18 +49,23 @@ a {
 	position:relative;
 	height:25px;
 	background-color:#8B4513;
-	left:107px;
+    padding:0px 0px 0px 107px;
+    
+
 	}
 
 	
 #main-menu li{
 	float:left;
 	display:block;
-	padding:0px;
+	padding:0px 0px 0px 10px;
 	margin:5px 0px 5px 15px;
 	background-color:#8B4513;
+	
  	
 }
+
+
 
 #main-menu a {
 	text-transform:uppercase;
@@ -67,10 +75,24 @@ a {
 #page { 
 	float:left; 
 	width:60%;
-	background-color:#fffac2;
-	margin:20px 15px;
+	background-color:white;
+	margin:20px 20px 20px 125px;
 	padding:10px;
 }	
+
+#site-footer {
+	clear:both;
+	position:relative;
+	height:55px;
+	background-color:#8B4513;
+}
+
+#footer-content h1 {
+	background-color:white;
+	float:left;
+	width:20%;
+	margin:15px 15px;
+}
 
 
 
