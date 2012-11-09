@@ -63,12 +63,13 @@ body { margin:0 auto;
 		width:960px;
 	}
 		
-#DogsVsCats { margin:0 auto;
-			 position:absolute;
+#DogsVsCats {  position:absolute;
+			   margin:20px 0px 0px 200px;
 			}
 
 .menu { position:absolute;
-		margin:100px 0px 20px 0px;
+		margin:130px 0px 20px 215px;
+
 	   }
 
 li {
@@ -83,7 +84,12 @@ li {
 
 
 article {float:left;
-		width:40%}
+		width:50%
+		}
+
+#Dog { margin:190px 0px 0px 20px;}
+
+#Cat {margin:190px 0px 0px 20px;}
 
 
 
