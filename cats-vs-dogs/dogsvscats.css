@@ -62,14 +62,15 @@ table {
 body { margin:0 auto;
 		width:960px;
 		
+		
 	}
 		
 #DogsVsCats {  position:absolute;
-			   margin:20px 0px 0px 215px;
+			   margin:20px 0px 0px 175px;
 			}
 
 .menu { position:absolute;
-		margin:130px 0px 20px 237px;
+		margin:130px 0px 20px 200px;
 
 	   }
 
@@ -109,11 +110,14 @@ footer { position:relative;
 		font-size:10px;
 	    }
 
-#image-copyright {  margin:0px 100px 0px 0px;
-					float:left;
+#image-copyright {  
+					position:absolute;
+					margin:720px 200px 0px 0px;
+					
 					}
 
-#image-copyrighttwo { float:right;
+#image-copyrighttwo { margin:720px 0px 0px 200px;
+						position:absolute;
 
 					
 					}
