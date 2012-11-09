@@ -62,15 +62,18 @@ table {
 body { margin:0 auto;
 		width:960px;}
 		
-header { margin:0 auto;	
-		width:960;}
+#DogsVsCats { text-align:center;}
 
- li {
+.menu { position:relative;
+		margin:0 auto;
+		width:960px;
+		}
+
+li {
     list-style:none;
-    float:left;
-    margin:20px;
+    width:20px;
     background-color:white;
-    padding:7px 14px;
+    position:absolute;
     color:black;
     text-transform:uppercase;
     font-family:Helvetica;
