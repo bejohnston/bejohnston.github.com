@@ -91,17 +91,23 @@ article {float:left;
 		width:40%
 		}
 
+
 #Dog { margin:180px 0px 0px 30px;}
 
 #Cat {margin:180px 0px 0px 30px;}
 
-p, h2 { 
-		margin:10px 0px 5px 30px;
+
+
+p { 
+		margin:10px 0px 70px 30px;
 		width:90%;
 		font-family:georgia;
 	   }
+	   
+	   
 
 h2 {font-size:30px;
+	margin:10px 0px 5px 30px;
    }
 
 
@@ -112,12 +118,12 @@ footer { position:relative;
 
 #image-copyright {  
 					position:absolute;
-					margin:720px 200px 0px 0px;
+					margin:740px 0px 0px 30px;
 					
 					}
 
-#image-copyrighttwo { margin:720px 0px 0px 200px;
-						position:absolute;
+#image-copyrighttwo { margin:740px 0px 0px 635px;
+					  position:absolute;
 
 					
 					}
