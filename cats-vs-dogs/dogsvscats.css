@@ -62,9 +62,12 @@ table {
 body { margin:0 auto;
 		width:960px;}
 		
-#DogsVsCats { text-align:center;}
+#DogsVsCats { margin:0 auto;
+			 position:absolute;
+			}
 
 .menu { position:absolute;
+		margin:100px 0px 20px 0px;
 	   		}
 
 li {
@@ -78,14 +81,17 @@ li {
   }
 
 #Dog {float:left;
-		width:60%;}
+		width:50%;
+	
+		}
 			
 #Cat {float:right;
-		width:60%;}
+		width:50%;}
 			
 article {float:right;
-		width:45%;
+		width:50%;
 		padding:10px;	}
+		
 			
 #DogSection {padding:20px;}
 
