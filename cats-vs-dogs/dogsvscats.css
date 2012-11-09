@@ -80,12 +80,21 @@ li {
     text-transform:uppercase;
     font-family:Helvetica;
   }
-			
 
 
-footer {float:right;
+article {float:left;
+		width:40%}
 
-       }
+
+
+
+
+
+
+footer {float:right;}
+
+
+
 			
 			
 
