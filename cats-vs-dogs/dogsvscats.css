@@ -61,47 +61,63 @@ table {
 
 body { margin:0 auto;
 		width:960px;
+		
 	}
 		
 #DogsVsCats {  position:absolute;
-			   margin:20px 0px 0px 200px;
+			   margin:20px 0px 0px 215px;
 			}
 
 .menu { position:absolute;
-		margin:130px 0px 20px 215px;
+		margin:130px 0px 20px 237px;
 
 	   }
 
 li {
 	float:left;
-    list-style:none;
+	list-style:none; 
     padding:10px;
     background-color:white;
     color:black;
     text-transform:uppercase;
-    font-family:Helvetica;
+    font-style:bold;
+    font-family:Georgia;
+
   }
 
 
 article {float:left;
-		width:50%
+		width:40%
 		}
 
-#Dog { margin:180px 0px 0px 20px;}
+#Dog { margin:180px 0px 0px 30px;}
 
-#Cat {margin:180px 0px 0px 20px;}
+#Cat {margin:180px 0px 0px 30px;}
 
-p { 
-margin:10px 0px 60px 10px;
-width:65%;}
+p, h2 { 
+		margin:10px 0px 5px 30px;
+		width:90%;
+		font-family:georgia;
+	   }
+
+h2 {font-size:30px;
+   }
 
 
+footer { position:relative;
+		font-family:georgia;
+		font-size:10px;
+	    }
 
+#image-copyright {  margin:0px 100px 0px 0px;
+					float:left;
+					}
 
+#image-copyrighttwo { float:right;
 
-
-footer {float:right;}
-
+					
+					}
+						
 
 
 			
