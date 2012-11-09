@@ -64,30 +64,32 @@ body { margin:0 auto;
 		
 #DogsVsCats { text-align:center;}
 
-.menu { position:relative;
-		margin:0 auto;
-		width:960px;
-		}
+.menu { position:absolute;
+	   		}
 
 li {
+	float:left;
     list-style:none;
-    width:20px;
+    padding:10px;
     background-color:white;
-    position:absolute;
     color:black;
     text-transform:uppercase;
     font-family:Helvetica;
   }
 
 #Dog {float:left;
-			width:60%;}
+		width:60%;}
 			
-#Cat {float:left;
-			width:60%;}
+#Cat {float:right;
+		width:60%;}
 			
 article {float:right;
-			width:45%
-			}
+		width:45%;
+		padding:10px;	}
+			
+#DogSection {padding:20px;}
+
+#CatSection {padding:20px;}
 
 footer {float:right;
 		45%}
