@@ -78,8 +78,8 @@ table {
     font-family:Helvetica;
   }
 
-.Dog { float:left;
-			width:50px;}
+article {float:left;
+		width:30%;}
 			
 
 @font-face {
