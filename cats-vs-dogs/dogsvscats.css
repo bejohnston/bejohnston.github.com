@@ -58,14 +58,9 @@ table {
 
 
 
-/* Center Content */
 
-.centered { 
-  margin:0 auto;
-  width:960px;
-}
-
-
+body { margin:0 auto;
+		width:960px;}
 
  li {
     list-style:none;
@@ -78,8 +73,19 @@ table {
     font-family:Helvetica;
   }
 
-article {float:left;
-		width:30%;}
+#Dog {float:left;
+			width:60%;}
+			
+#Cat {float:left;
+			width:60%;}
+			
+article {float:right;
+			width:45%
+			}
+
+footer {float:right;
+		45%}
+			
 			
 
 @font-face {
