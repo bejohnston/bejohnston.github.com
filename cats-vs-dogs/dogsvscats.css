@@ -39,7 +39,7 @@ body {
 	width:960px;
 }
 ol, ul {
-	list-style: none;
+	list-style: 
 }
 blockquote, q {
 	quotes: none;
@@ -70,21 +70,24 @@ body { margin:0 auto;
 			}
 
 .menu { position:absolute;
-		margin:130px 0px 20px 200px;
-
-	   }
+		margin:130px 0px 20px 30px;
+		padding:5px
+		border-style:solid;
+		border-width:5px;
+		border-color:red;}
 
 li {
 	float:left;
-	list-style:none; 
-    padding:10px;
+    padding:5px;
     background-color:white;
     color:black;
     text-transform:uppercase;
     font-style:bold;
     font-family:Georgia;
+    font-size:25px;
+    margin:0px 0px 0px 37px;
+   }
 
-  }
 
 
 article {float:left;
