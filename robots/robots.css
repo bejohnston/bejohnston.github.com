@@ -90,8 +90,8 @@ a { text-decoration:none;
 	position:absolute;
 	background-color:tan;
 	width:100%;
-	margin:150px 0px 0px 0px;
-	padding:0px 0px 0px 250px;
+	margin:35px 0px 0px 0px;
+	height:50px;
 
 			}
 	
@@ -144,16 +144,28 @@ aside {float:right;
 #site-footer {
 	clear:both;
 	position:relative;
-	height:100px;
+	width:100%;
+	height:200px;
 	background-color:#8B4513;
 }
 
-#footer-content h1 {
+#footer-contact {
 	background-color:white;
 	float:left;
-	width:20%;
-	margin:20px;
+	width:10%;
+	margin:20px 0px 0px 250px;
+	
+	font-size:10px;
+	font-family:arial;
 }
+
+#footer-contact h1 {
+
+	text-transform:uppercase;
+}
+
+#footer-follow { float:right;
+				}
 
 
 
