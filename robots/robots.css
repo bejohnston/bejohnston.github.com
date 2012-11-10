@@ -53,26 +53,31 @@ table {
 
 
 body {
-	margin:0 auto;
-	width:960;
 	background-color:#FAFAD2;
 	}
 		
-#site-wrapper {position:relative;
-	}
-		
 #top-nav {
-	padding:5px;
-	margin:100px 0px 0px 800px;
+	position:absolute;
+	top:0px;
+	left:600px;
+	padding:10px;
+	width:20%;
 	background-color:white;
 	font-size:10px;
 	color:#8B4513; 
+	font:arial;
 	}
+	
+h1 { width:30%;}
+
+		
+
 
 #site-header {
 		background-color:#FAFAD2;
 		position:absolute;
 		display:block;
+		width:45%;
 		margin:0px 0px 0px 250px;
 		}
 
@@ -82,15 +87,16 @@ a { text-decoration:none;
 #main-menu {
 	position:absolute;
 	background-color:#8B4513;
-    padding:3px 0px 3px 0px;
-    margin:125px 0px 0px 250px;
+	padding:15px 570px 15px 250px;
+    margin:125px 0px 0px 0px;
 			}
 
 	
 #main-menu li{
-	float:right;
+	float:left;
 	display:block;
-	padding:5px;
+	padding:0px 20px 0px 20px;
+	right:900px;
 	background-color:#8B4513;
 	}
 
@@ -100,7 +106,9 @@ a { text-decoration:none;
 	color:white;
 	}	
 
-#content {position:relative;}
+#content {position:relative;
+			margin:0 auto;
+			width:960;}
 
 #page { float:left;
 		width:50%;
