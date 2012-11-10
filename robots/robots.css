@@ -116,9 +116,10 @@ article {
         position:absolute;
 		background-color:white;
 		width:30%;
-		margin:150px 0px 0px 250px;
+		margin:150px 0px 700px 250px;
 		padding:10px;
-		width:}
+		font-family:arial;
+		font-size:10px;}
 
 article h1 {}
 		
@@ -128,6 +129,8 @@ aside {float:right;
 		width:45%;
        background-color:white;
        margin:150px 0px 0px 0px;
+		font-family:arial;
+		font-size:10px;
 		}
 		
 #robopets {float:left;
@@ -136,7 +139,7 @@ aside {float:right;
 			
 #vintagebots {float:left;
 			width:30%;
-			margin:10px 300px 0px 0px;}
+			margin:10px 300px 200px 0px;}
 
 #site-footer {
 	clear:both;
