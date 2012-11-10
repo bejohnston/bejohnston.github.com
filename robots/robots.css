@@ -74,7 +74,7 @@ body {
 		background-color:#FAFAD2;
 		position:absolute;
 		display:block;
-		margin:0px 0px 0px 700px;
+		margin:0px 0px 0px 400px;
 		}
 
 a { text-decoration:none;
@@ -104,23 +104,22 @@ a { text-decoration:none;
 #content {position:relative;}
 
 #page { float:left;
-		width:40%;
+		width:50%;
 		background-color:white;
 		margin:300px 0px 0px 250px;}
 		
 		
 	
-#side-bar {float:right;
-		width:20%
-		padding:10px;
-		margin:250px 0px 0px 0px;
-		
+aside {float:right;
+		width:30%;
+       background-color:red;
+       margin:300px 0px 0px 0px;
 		}
 
 #site-footer {
 	clear:both;
 	position:relative;
-	height:150px;
+	height:100px;
 	background-color:#8B4513;
 }
 
