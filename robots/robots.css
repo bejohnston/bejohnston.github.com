@@ -145,7 +145,7 @@ aside {float:right;
 	clear:both;
 	position:relative;
 	width:100%;
-	height:200px;
+	height:150px;
 	background-color:#8B4513;
 }
 
@@ -153,27 +153,30 @@ aside {float:right;
 	background-color:white;
 	float:left;
 	width:10%;
-	margin:20px 0px 0px 250px;
+	margin:20px 0px 0px 260px;
 	
 	font-size:10px;
 	font-family:arial;
 }
 
 #footer-contact h1 {
+                text-transform:uppercase; 
+                font-size:15px;
+                padding:0px 0px 15px 0px;
+                }
 
-	text-transform:uppercase;
-}
 
 #footer-follow { float:right;
-				 margin:0px 570px 0px 0px;
-				 padding:
+				 margin:0px 435px 0px 0px;
+				 
 				}
 				
 #footer-follow h1 { text-transform:uppercase;
 					font-family:arial;
-					font-size:10px;
+					font-size:15px;
 					margin-top:20px;
-					background-color:white; }
+					background-color:white;
+					 }
 
 #footer-follow img { float:left;
 				     margin-top:10px;}
