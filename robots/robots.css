@@ -82,8 +82,8 @@ a { text-decoration:none;
 #main-menu {
 	position:absolute;
 	background-color:#8B4513;
-	padding:10px 0px 10px 242px;
-    width:100%
+	width:100%;
+	padding:0px 0px 0px 250px;
 			}
 			
 #tanbar {
@@ -127,7 +127,7 @@ article h1 {}
 aside {float:right;
 		width:50%;
        background-color:white;
-       margin:250px 0px 0px 0px;
+       margin:150px 0px 0px 0px;
 		}
 
 #site-footer {
