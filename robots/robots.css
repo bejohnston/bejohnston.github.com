@@ -178,6 +178,9 @@ aside {float:right;
 #footer-follow img { float:left;
 				     margin-top:10px;}
 				     
+#footer-follow li { float:left;
+					padding:5px;}
+				     
 
 
 
