@@ -73,11 +73,12 @@ body { margin:0 auto;
 		margin:130px 20px 20px 30px;
 		border-style:solid;
 		border-width:4px 0px 4px 0px;
-		border-color:black;}
+		border-color:black;
+		padding:5px 24px 5px 0px;}
 
 li {
+	 padding:0px 10px 0px 10px;
 	float:left;
-    padding:5px 13px 5px 12px;
     background-color:white;
     color:black;
     text-transform:uppercase;
@@ -87,7 +88,8 @@ li {
     margin:0px 0px 0px 30px;
    }
 
-
+#lione { list-style-type:none;
+		 }
 
 article {float:left;
 		width:40%
@@ -123,13 +125,13 @@ footer { position:relative;
 		
 	    }
 
-#image-copyright {  padding:5px 500px 0px 0px;
+#image-copyright {  padding:15px 500px 0px 0px;
 					position:absolute;
 					margin:750px 0px 0px 30px;
 					
 					}
 
-#image-copyrighttwo { padding:5px 0px 0px 0px;
+#image-copyrighttwo { padding:15px 0px 0px 0px;
 					  margin:750px 0px 0px 636px;
 					  position:absolute;
 
