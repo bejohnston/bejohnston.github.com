@@ -165,7 +165,21 @@ aside {float:right;
 }
 
 #footer-follow { float:right;
+				 margin:0px 570px 0px 0px;
+				 padding:
 				}
+				
+#footer-follow h1 { text-transform:uppercase;
+					font-family:arial;
+					font-size:10px;
+					margin-top:20px;
+					background-color:white; }
+
+#footer-follow img { float:left;
+				     margin-top:10px;}
+				     
+
+
 
 
 
