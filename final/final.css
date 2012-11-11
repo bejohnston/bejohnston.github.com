@@ -59,18 +59,22 @@ body {margin:0 auto;
 header h1 { position:absolute;
 			margin-top:0px;
 			left:70px;
-			width:100%;}	  
+			width:100%;
+			}	
+			
+#bejohnstoncreative {position:absolute;}  
 	  
 header h2,h3 { float:left
 			   width:100%
 			   color:black;
 			   background-color:white;
 			   font-family:helvetica;
-			   margin:60px 0px 0px 0px;
+			   margin:0px 0px 0px 0px;
 			 }
 			   
 header h2 {font-size:38px;
-			padding:5px 0px 0px 0px;}
+			padding:5px 0px 0px 0px;
+			font-family:'PacificoRegular';}
 
 header h3 { text-transform:uppercase;
 			font-size:12px;
@@ -83,34 +87,53 @@ a { text-decoration:none;
 	}
 
 #ContactMe { position:absolute;
-			 margin:0px 0px 5px 680px;
+			 margin:0px 0px 5px 645px;
 			 top:10px;
 			 font-size:12px; 
 			}
-			 
-#PortfolioBackground {  padding:500px 0px 0px 0px;
+#PorfolioSection {postion:absolute;}			 
+
+#PortfolioBackground {  position:absolute;
+						padding:500px 0px 0px 0px;
 						margin:90px 0px 20px 0px;
 						background-color:grey;
-						width:100%}	     
+						width:65%;}	     
 						
 #NavWrapper {position:relative;}
 
-#MainMenu {position:absolute;
-			margin:50px 0px 20px 0px;
+#MainMenu {float:left;
+           height:20px;
+           width:10%;
 			}
 
 #MainMenu li {float:left;
-			  padding:5px 10px 5px 10px;
+			  padding:7px 5px 7px 5px;
 			  font-size:12px;
 			  text-transform:uppercase;
 			  }
+			  
+#ArtworkContainer {position:relative;
+					}
+
+#BlakeWindow { position:absolute;
+				margin:30px;}
 
 
 
 
 
 
+@font-face {
+    font-family: 'PacificoRegular';
+    src: url('fonts/Pacifico-webfont.eot');
+    src: url('fonts/Pacifico-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Pacifico-webfont.woff') format('woff'),
+         url('fonts/Pacifico-webfont.ttf') format('truetype'),
+         url('fonts/Pacifico-webfont.svg#PacificoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
+}
 
 
 
