@@ -54,6 +54,33 @@ table {
 body {margin:0 auto;
 	  width:960px;}
 	  
+#SiteWrapper {position:relative;}
+	  
+header h1 { position:absolute;}	  
+	  
+header h2,h3 { float:left
+			   margin:0px 0px 0px 300px;
+			   width:100%
+			   color:black;
+			   font-family:helvetica;
+			   text-transform:uppercase;}
+			   
+header h2 {font-size:38px;}
+			   
+a { text-decoration:none;
+	color:black;
+	font-family:helvetica;
+	text-transform:uppercase;}
+
+#ContactMe { position:absolute;
+			 margin:5px 0px 5px 450px;}
+			 
+#PortfolioBackground { padding:500px 0px 0px 0px;
+						margin:100px 0px 20px 0px;
+						background-color:grey;
+						width:100%}	     
+						
+#
 
 
 
