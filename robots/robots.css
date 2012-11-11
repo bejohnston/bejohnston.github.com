@@ -125,14 +125,14 @@ article {
         position:absolute;
 		background-color:white;
 		width:30%;
-		margin:150px 0px 700px 250px;
+		margin:140px 0px 700px 250px;
 		padding:10px;
 		font-family:arial;
 		font-size:10px;}
 
-article h1 { font-size:30px;
+article h1 { font-size:50px;
 		     color:#8B4513;
-		     font-family:'wisdom_script_airegular';}
+		     font-family:'Lobster13Regular';}
 
 article h2 { font-size:15px;
 			text-transform:uppercase;
@@ -144,7 +144,7 @@ article h2 { font-size:15px;
 aside {float:right;
 		width:45%;
        background-color:white;
-       margin:165px 0px 0px 0px;
+       margin:145px 0px 0px 0px;
 		font-family:arial;
 		font-size:10px;
 		}
@@ -213,15 +213,16 @@ aside h1 { font-size:15px;
 
 
 @font-face {
-    font-family: 'wisdom_script_airegular';
-    src: url('fonts/wisdom_script-webfont.eot');
-    src: url('fonts/wisdom_script-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/wisdom_script-webfont.woff') format('woff'),
-         url('fonts/wisdom_script-webfont.ttf') format('truetype'),
-         url('fonts/wisdom_script-webfont.svg#wisdom_script_airegular') format('svg');
+    font-family: 'Lobster13Regular';
+    src: url('fonts/Lobster_1.3-webfont.eot');
+    src: url('fonts/Lobster_1.3-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Lobster_1.3-webfont.woff') format('woff'),
+         url('fonts/Lobster_1.3-webfont.ttf') format('truetype'),
+         url('fonts/Lobster_1.3-webfont.svg#Lobster13Regular') format('svg');
     font-weight: normal;
     font-style: normal;
 
+}
 }
 
 
