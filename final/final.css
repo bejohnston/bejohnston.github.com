@@ -56,7 +56,9 @@ body {margin:0 auto;
 	  
 #SiteWrapper {position:relative;}
 	  
-header h1 { position:absolute;}	  
+header h1 { position:absolute;
+			margin-top:25px;
+			width:100%;}	  
 	  
 header h2,h3 { float:left
 			   margin:0px 0px 0px 300px;
@@ -80,7 +82,13 @@ a { text-decoration:none;
 						background-color:grey;
 						width:100%}	     
 						
-#
+#NavWrapper {position:relative;}
+
+#MainMenu {position:absolute;
+			margin:20px 0px 20px 100px;}
+
+#MainMenu li {float:left;
+			  padding:5px 10px 5px 10px;}
 
 
 
