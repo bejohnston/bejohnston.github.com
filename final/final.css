@@ -56,9 +56,11 @@ body {margin:0 auto;
 	  
 #SiteWrapper {position:relative;}
 	  
+header {position:relative;}
+
 header h1 { position:absolute;
-			margin-top:0px;
-			left:70px;
+			margin-top:50px;
+			right:170px;
 			width:100%;
 			}	
 			
@@ -91,13 +93,7 @@ a { text-decoration:none;
 			 top:10px;
 			 font-size:12px; 
 			}
-#PorfolioSection {postion:absolute;}			 
-
-#PortfolioBackground {  position:absolute;
-						padding:500px 0px 0px 0px;
-						margin:90px 0px 20px 0px;
-						background-color:grey;
-						width:65%;}	     
+ 
 						
 #NavWrapper {position:relative;}
 
@@ -112,11 +108,18 @@ a { text-decoration:none;
 			  text-transform:uppercase;
 			  }
 			  
-#ArtworkContainer {position:relative;
-					}
 
+
+			
+#PorfolioSection {postion:relative;}
+					
 #BlakeWindow { position:absolute;
-				margin:30px;}
+				margin:200px 0px 0px 0px;
+				background-color:pink;
+				padding:5px;
+				left:230px;}
+		 
+
 
 
 
