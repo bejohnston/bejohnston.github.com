@@ -53,6 +53,14 @@ table {
 
 body {margin:0 auto;
 	  width:960px;}
+	  
+#site-header {
+		background-color:#FAFAD2;
+		position:relative;
+		display:block;
+		width:100%;
+		padding:0px 0px 0px 250px;
+		}
 
 
 
