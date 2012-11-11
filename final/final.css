@@ -75,7 +75,9 @@ a { text-decoration:none;
 	text-transform:uppercase;}
 
 #ContactMe { position:absolute;
-			 margin:5px 0px 5px 450px;}
+			 margin:0px 0px 5px 480px;
+			 top:10px; 
+			}
 			 
 #PortfolioBackground { padding:500px 0px 0px 0px;
 						margin:100px 0px 20px 0px;
