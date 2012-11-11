@@ -53,34 +53,34 @@ table {
 
 body {margin:0 auto;
 	  width:960px;}
-	  
-#SiteWrapper {position:relative;}
-	  
-header {position:relative;}
+
+#SiteWrapper {position:relative;
+			  width:100%;}
 
 header h1 { position:absolute;
 			margin-top:50px;
-			right:170px;
+			left:70px;
 			width:100%;
 			}	
-			
-#bejohnstoncreative {position:absolute;}  
 	  
-header h2,h3 { float:left
+header h2,h3 { position:relative;
 			   width:100%
 			   color:black;
 			   background-color:white;
 			   font-family:helvetica;
-			   margin:0px 0px 0px 0px;
+			   
 			 }
 			   
-header h2 {font-size:38px;
+header h2 { font-size:38px;
 			padding:5px 0px 0px 0px;
-			font-family:'PacificoRegular';}
+			font-family:'PacificoRegular';
+			margin:50px 0px 0px 0px;
+			position:absolute;}
 
 header h3 { text-transform:uppercase;
 			font-size:12px;
-			margin:10px 0px 0px 2px;
+			margin:100px 0px 0px 2px;
+			position:absolute;
 			}
 			   
 a { text-decoration:none;
@@ -88,18 +88,21 @@ a { text-decoration:none;
 	font-family:helvetica;
 	}
 
+nav {width:30%;}
+
 #ContactMe { position:absolute;
 			 margin:0px 0px 5px 645px;
 			 top:10px;
 			 font-size:12px; 
+			 width:100%;
 			}
- 
-						
+
 #NavWrapper {position:relative;}
 
-#MainMenu {float:left;
-           height:20px;
+#MainMenu {position:absolute;
            width:10%;
+           margin-top:20px;
+           
 			}
 
 #MainMenu li {float:left;
@@ -114,9 +117,9 @@ a { text-decoration:none;
 #PorfolioSection {postion:relative;}
 					
 #BlakeWindow { position:absolute;
-				margin:200px 0px 0px 0px;
+				margin:200px 0px 200px 0px;
 				background-color:pink;
-				padding:5px;
+				padding:10px 5px 40px 5px;
 				left:230px;}
 		 
 
