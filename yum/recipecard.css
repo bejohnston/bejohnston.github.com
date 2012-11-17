@@ -1,4 +1,4 @@
-body {margin:0 auto;
+#content {margin:0 auto;
 	  width:960px;
 		}
 
@@ -20,20 +20,23 @@ h4, body {font-size:10px;
 	}
 
 nav {text-align:left;
-	 width:70%;
-	 height:100px;
+	 width:60%;
+	 position:absolute;
+	 margin:10px 0px 20px 182px;
 	}
 	
 	
-.menu { float:left;
+.menu { position:relative;
 	list-style-type: none;
-	padding:0px;
-	width:30%
+	width:30%;
+	margin:0px 0px 30px 0px;
 	}
 	
-.menu2 { float:left;
+.menu2 { position:relative;
 		list-style-type:none;
-		width:30%
+		width:30%;
+		margin:0px 0px 30px 200px;
+		height:100px;
 		}
 	
 
@@ -43,17 +46,17 @@ li {float:left;
 	font-size:8px;
 	width:100%
 	}
-	
+
 		
 article { float:left; 
 		  width:60%; 
 		  padding:0px;
-		  margin:40px 0px 0px 0px; }
+		  margin:100px 0px 60px 0px; }
 
 aside { float:right; 
         width:20%; 
-        margin:43px 0px 0px 0px;
-        padding:10px; }
+        margin:111px 0px 60px 0px;
+        padding:0px; }
         
 
 @font-face {
