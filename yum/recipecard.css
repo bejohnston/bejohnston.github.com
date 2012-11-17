@@ -20,18 +20,21 @@ h4, body {font-size:10px;
 	}
 
 nav {text-align:left;
-	 width:80%;
+	 width:70%;
+	 height:100px;
 	}
 	
 	
 .menu { float:left;
 	list-style-type: none;
 	padding:0px;
-	width:100%
+	width:30%
 	}
 	
-.menu2 { list-style-type:none;
-		width:100%}
+.menu2 { float:left;
+		list-style-type:none;
+		width:30%
+		}
 	
 
 li {float:left;
@@ -44,12 +47,12 @@ li {float:left;
 		
 article { float:left; 
 		  width:60%; 
-		  padding:10px;
+		  padding:0px;
 		  margin:40px 0px 0px 0px; }
 
 aside { float:right; 
         width:20%; 
-        margin:54px 0px 0px 0px;
+        margin:43px 0px 0px 0px;
         padding:10px; }
         
 
