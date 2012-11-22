@@ -103,18 +103,25 @@ h2, p {font-family:'Open Sans';
 				
 	   
 p { position:absolute;
-	margin:920px 0px 0px 873px;
+	margin:930px 0px 0px 870px;
 	width:100%;
 	color:black;
 	font-size:8px;
   }
   
 #BroadsideLayout {position:absolute;
-			      margin:0px 0px 10px 95px;}
+			      margin:0px 0px 10px 125px;}
+			      
+#ArrowRight { position:absolute;
+			 margin:200px 0px 0px 790px;}
+			 
+#ArrowLeft { position:absolute;
+			 margin:200px 0px 0px 5px;}
+
 	
 section {position:absolute;
 		 width:100%;
-		 margin:235px 0px 0px 340px;
+		 margin:235px 0px 0px 200px;
 		 }	 
 
 @font-face {
