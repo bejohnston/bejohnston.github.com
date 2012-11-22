@@ -56,8 +56,9 @@ table {
 			 }
 
 body {  width:960px;
-		
 	 }
+	 
+a {text-decoration:none;}
 	 
 #BackgroundImage { postion:absolute;
 				   margin:0;
@@ -96,11 +97,23 @@ h2, p {font-family:'Open Sans';
 			   text-transform:uppercase;
 			   font-size:14px;
 			   padding:7px 0px 0px 0px;
+			   color:black;
 			   }		
    
 #SpeechBubble { position:absolute;
 				margin:75px 0px 0px 660px;}
 				
+#LineBreak { position:absolute;
+			 margin:40px 0px 20px 0px; }
+				
+#About {position:absolute;
+		margin:60px 0px 0px 0px;}						
+	   
+#Design {position:absolute;
+		margin:60px 0px 0px 90px;}
+		
+#Illustration {position:absolute;
+		margin:60px 0px 0px 180px;}			   
 	   
 p { position:absolute;
 	margin:930px 0px 0px 870px;
@@ -110,16 +123,16 @@ p { position:absolute;
   }
   
 #BroadsideLayout {position:absolute;
-			      margin:0px 0px 10px 140px;}
+			      margin:90px 0px 10px 140px;}
 			      
 #ArrowRight { position:absolute;
-			 margin:200px 0px 0px 790px;}
+			 margin:290px 0px 0px 790px;}
 			 
 #ArrowLeft { position:absolute;
-			 margin:200px 0px 0px 33px;}
+			 margin:290px 0px 0px 33px;}
 
 #Dots { position:absolute;
-		margin:475px 0px 0px 340px;}
+		margin:565px 0px 0px 350px;}
 	
 section {position:absolute;
 		 width:100%;
