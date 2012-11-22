@@ -65,32 +65,32 @@ body {  width:960px;
 
 header {position:absolute;
 		width:100%;
-		margin:150px 0px 0px 100px;  
+		margin:170px 0px 0px 100px;  
 	   }
 	   
 #Email {position:absolute;
-		margin:35px 0px 0px 860px;
+		margin:55px 0px 0px 860px;
 		}
 		
 #Twitter {position:absolute;
-		margin:35px 0px 0px 900px;
+		margin:55px 0px 0px 900px;
 		}
 		
 #Pinterest {position:absolute;
-		margin:35px 0px 0px 940px;
+		margin:55px 0px 0px 940px;
 		}
 
 h1 {font-family:'ArvoBold';
 	font-size:40px;
 	text-transform:uppercase;}
 
-h2 {font-family:'Open Sans';
+h2, p {font-family:'Open Sans';
 	font-size:13px;
 	padding:5px 0px 0px 0px;
    }
 
 #SpeechBubbleWords { position:absolute;
-					 margin:95px 0px 0px 800px;}
+					 margin:115px 0px 0px 800px;}
 					 
 #ShootMessage {font-family: 'ArvoBold';
 			   text-transform:uppercase;
@@ -99,10 +99,10 @@ h2 {font-family:'Open Sans';
 			   }		
    
 #SpeechBubble { position:absolute;
-				margin:55px 0px 0px 660px;}
+				margin:75px 0px 0px 660px;}
 	   
 p { position:absolute;
-	margin:880px 0px 0px 450px;
+	margin:880px 0px 0px 750px;
 	width:100%;
   }
 	
