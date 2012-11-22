@@ -69,15 +69,15 @@ header {position:absolute;
 	   }
 	   
 #Email {position:absolute;
-		margin:55px 0px 0px 860px;
+		margin:25px 0px 0px 860px;
 		}
 		
 #Twitter {position:absolute;
-		margin:55px 0px 0px 900px;
+		margin:25px 0px 0px 900px;
 		}
 		
 #Pinterest {position:absolute;
-		margin:55px 0px 0px 940px;
+		margin:25px 0px 0px 940px;
 		}
 
 h1 {font-family:'ArvoBold';
@@ -100,18 +100,21 @@ h2, p {font-family:'Open Sans';
    
 #SpeechBubble { position:absolute;
 				margin:75px 0px 0px 660px;}
+				
 	   
 p { position:absolute;
 	margin:880px 0px 0px 750px;
 	width:100%;
+	color:black;
   }
+  
+#BroadsideLayout {position:absolute;
+			      margin:0px 0px 10px 95px;}
 	
 section {position:absolute;
 		 width:100%;
-		 margin:500px 0px 0px 300px;
-		 }
-		 
-		 
+		 margin:250px 0px 0px 340px;
+		 }	 
 
 @font-face {
     font-family: 'ArvoRegular';
