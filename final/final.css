@@ -110,14 +110,16 @@ p { position:absolute;
   }
   
 #BroadsideLayout {position:absolute;
-			      margin:0px 0px 10px 125px;}
+			      margin:0px 0px 10px 140px;}
 			      
 #ArrowRight { position:absolute;
 			 margin:200px 0px 0px 790px;}
 			 
 #ArrowLeft { position:absolute;
-			 margin:200px 0px 0px 5px;}
+			 margin:200px 0px 0px 33px;}
 
+#Dots { position:absolute;
+		margin:475px 0px 0px 340px;}
 	
 section {position:absolute;
 		 width:100%;
