@@ -89,6 +89,9 @@ h2, p {font-family:'Open Sans';
 	font-size:13px;
 	padding:5px 0px 0px 0px;
    }
+   
+#SpeechBubble { 		position:absolute;
+				margin:75px 0px 0px 660px;}
 
 #SpeechBubbleWords { position:absolute;
 					 margin:115px 0px 0px 800px;}
@@ -99,9 +102,6 @@ h2, p {font-family:'Open Sans';
 			   padding:7px 0px 0px 0px;
 			   color:black;
 			   }		
-   
-#SpeechBubble { position:absolute;
-				margin:75px 0px 0px 660px;}
 				
 #LineBreak { position:absolute;
 			 margin:40px 0px 20px 0px; }
