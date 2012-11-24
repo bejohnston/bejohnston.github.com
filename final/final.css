@@ -94,14 +94,18 @@ h2, p {font-family:'Open Sans';
 				margin:75px 0px 0px 660px;}
 
 #SpeechBubbleWords { position:absolute;
-					 margin:115px 0px 0px 800px;}
+					 margin:93px 0px 0px 800px;
+					 text-align:center;}
 					 
-#ShootMessage {font-family: 'ArvoBold';
+#ShootMessage, #DownloadResume
+			   {font-family: 'ArvoBold';
 			   text-transform:uppercase;
 			   font-size:14px;
 			   padding:7px 0px 0px 0px;
 			   color:black;
-			   }		
+			   text-align:center;
+			   }	
+			
 				
 #LineBreak { position:absolute;
 			 margin:40px 0px 20px 0px; }
