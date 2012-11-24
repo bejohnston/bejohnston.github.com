@@ -90,7 +90,7 @@ h2, p {font-family:'Open Sans';
 	padding:5px 0px 0px 0px;
    }
    
-#SpeechBubble { 		position:absolute;
+#SpeechBubble { position:absolute;
 				margin:75px 0px 0px 660px;}
 
 #SpeechBubbleWords { position:absolute;
@@ -126,10 +126,10 @@ p { position:absolute;
 			      margin:90px 0px 10px 140px;}
 			      
 #ArrowRight { position:absolute;
-			 margin:290px 0px 0px 790px;}
+			 margin:290px 0px 0px 780px;}
 			 
 #ArrowLeft { position:absolute;
-			 margin:290px 0px 0px 33px;}
+			 margin:290px 0px 0px 43px;}
 
 #Dots { position:absolute;
 		margin:565px 0px 0px 350px;}
