@@ -1,0 +1,23 @@
+ 
+ @media screen and (max-width:800px ) { 
+     #SiteWrapper { width:80%; margin:0 1%;}
+     #article { width:80% margin:0 1%;}
+    #DogsVsCats { width:50%; margin:0 1%;}
+    #Cat { width:80%; margin:0 1%;}
+    #Dog { width:80%; margin:0 1%;}
+      h2 {font-size:1em;} 
+      article {font-size:1em;}
+      li {font-size:1em;}
+    }
+    
+   @media screen and (max-width:700px ) { 
+     #SiteWrapper { width:60%; margin:0 1%;}
+     #article { width:60% margin:0 1%;}
+    #DogsVsCats {width:30%; margin:0 1%;}
+    #Cat { width:60%; margin:0 1%;}
+    #Dog { width:60%; margin:0 1%;}
+      h2 {font-size:.5em;} 
+      article {font-size:.5em;}
+      li {font-size:.5em;}
+      footer {font-size:.5em;}
+    }
