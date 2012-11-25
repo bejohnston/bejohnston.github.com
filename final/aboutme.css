@@ -86,7 +86,7 @@ h1 {font-family:'ArvoBold';
 	text-transform:uppercase;
 	color:black;}
 
-h2, p {font-family:'Open Sans';
+h2, p, article {font-family:'Open Sans';
 	font-size:13px;
 	padding:5px 0px 0px 0px;
 	color:black;
@@ -127,14 +127,20 @@ p { position:absolute;
 	color:black;
 	font-size:8px;
   }
-			      
 	
 section {position:absolute;
 		 width:100%;
 		 margin:235px 0px 0px 200px;
-		 }	
-
-
+		 }
+		 
+article {position:absolute;
+		 margin:120px 0px 0px 100px;
+		 width:25%;
+		 text-align:right;}
+		 
+#AboutMePicture {position:absolute;
+				 padding:0px;
+				 margin:100px 0px 0px 470px;}
 
 @font-face {
     font-family: 'ArvoRegular';

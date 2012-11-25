@@ -85,9 +85,9 @@ h1 {font-family:'ArvoBold';
 	font-size:40px;
 	text-transform:uppercase;}
 
-h2, p {font-family:'Open Sans';
-	font-size:13px;
-	padding:5px 0px 0px 0px;
+h2, p, article {font-family:'Open Sans';
+				font-size:13px;
+				padding:5px 0px 0px 0px;
    }
    
 #SpeechBubble { position:absolute;
