@@ -58,7 +58,8 @@ table {
 body {  width:960px;
 	 }
 	 
-a {text-decoration:none;}
+a {text-decoration:none;
+   color:black;}
 	 
 #BackgroundImage { postion:absolute;
 				   margin:0;
