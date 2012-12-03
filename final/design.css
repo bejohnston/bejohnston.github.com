@@ -135,22 +135,22 @@ section {position:absolute;
 		 }
 		 
 #BalloonPoster {position:absolute;
-				margin:110px 0px 0px 0px;}
+				margin:120px 0px 0px 0px;}
 
 #BroadsideLayout {position:absolute;
-				margin:110px 0px 0px 20px;}
+				margin:120px 0px 0px 610px;}
 				
 #DonDraper {position:absolute;
-				margin:200px 0px 0px 0px;}
+				margin:320px 0px 0px 0px;}
 				
 #IconVersions {position:absolute;
-				margin:200px 0px 0px 40px;}
+				margin:320px 0px 0px 310px;}
 
 #SeaThrough {position:absolute;
-				margin:200px 0px 0px 20px;}
+				margin:320px 0px 0px 610px;}
 				
 #UpMusicScore {position:absolute;
-				margin:130px 0px 0px 40px;}
+				margin:120px 0px 0px 310px;}
 				
 @font-face {
     font-family: 'ArvoRegular';
