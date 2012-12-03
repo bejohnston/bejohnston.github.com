@@ -131,19 +131,13 @@ p { position:absolute;
 #BroadsideLayout {position:absolute;
 			      margin:90px 0px 10px 140px;}
 			      
-#ArrowRight { position:absolute;
-			 margin:290px 0px 0px 780px;}
-			 
-#ArrowLeft { position:absolute;
-			 margin:290px 0px 0px 43px;}
-
-#Dots { position:absolute;
-		margin:565px 0px 0px 350px;}
-	
 section {position:absolute;
 		 width:100%;
-		 margin:235px 0px 0px 200px;
+		 margin:360px 0px 0px 200px;
 		 }	 
+		 
+
+
 
 @font-face {
     font-family: 'ArvoRegular';
