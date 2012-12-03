@@ -137,6 +137,21 @@ section {position:absolute;
 #BalloonPoster {position:absolute;
 				margin:110px 0px 0px 0px;}
 
+#BroadsideLayout {position:absolute;
+				margin:110px 0px 0px 20px;}
+				
+#DonDraper {position:absolute;
+				margin:110px 0px 0px 40px;}
+				
+#IconVersions {position:absolute;
+				margin:130px 0px 0px 0px;}
+
+#SeaThrough {position:absolute;
+				margin:130px 0px 0px 20px;}
+				
+#UpMusicScore {position:absolute;
+				margin:130px 0px 0px 40px;}
+				
 @font-face {
     font-family: 'ArvoRegular';
     src: url('fonts/Arvo-Regular-webfont.eot');
