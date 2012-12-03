@@ -64,21 +64,22 @@ body { margin:0 auto;
 		
 		
 	}
+
 		
 #Dogs {  position:absolute;
-			   margin:20px 0px 0px 230px;
-			   font-size:100px;
+			   margin:10px 0px 0px 230px;
+			   font-size:105px;
 			   font-family:'LeagueGothicRegular';
 			}
 			
 #Cats {  position:absolute;
-			   margin:20px 0px 0px 470px;
-			   font-size:100px;
+			   margin:10px 0px 0px 460px;
+			   font-size:105px;
 			   font-family:'LeagueGothicRegular';
 			}
 			
 #VS {  position:absolute;
-			   margin:30px 0px 0px 385px;
+			   margin:15px 0px 0px 385px;
 			   font-size:60px;
 			   font-family:Georgia;
 			   color:grey;	
