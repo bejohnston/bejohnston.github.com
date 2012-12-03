@@ -134,6 +134,25 @@ section {position:absolute;
 		 margin:235px 0px 0px 200px;
 		 }
 		 
+#Blakey {position:absolute;
+				margin:120px 0px 0px 0px;}
+
+#DreamCatcher {position:absolute;
+				margin:120px 0px 0px 610px;}
+				
+#LetterE      {position:absolute;
+				margin:320px 0px 0px 0px;}
+				
+#Pattern2      {position:absolute;
+				margin:320px 0px 0px 310px;}
+
+#Pattern       {position:absolute;
+				margin:320px 0px 0px 610px;}
+				
+#SongPoster     {position:absolute;
+				margin:120px 0px 0px 310px;}
+				
+		 
 
 
 @font-face {
