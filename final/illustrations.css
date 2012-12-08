@@ -84,23 +84,24 @@ header {position:absolute;
 
 h1 {font-family:'ArvoBold';
 	font-size:40px;
-	text-transform:uppercase;
-	color:black;}
+	text-transform:uppercase;}
 
 h2, p, article {font-family:'Open Sans';
-	font-size:13px;
-	padding:5px 0px 0px 0px;
-	color:black;
+				font-size:13px;
+				padding:5px 0px 0px 0px;
    }
+
    
 #SpeechBubble { position:absolute;
 				margin:75px 0px 0px 660px;}
 
 #SpeechBubbleWords { position:absolute;
-					 margin:93px 0px 0px 800px;
+					 margin:110px 0px 0px 775px;
 					 text-align:center;}
-					 
-#ShootMessage, #DownloadResume
+
+#WorkWith  {font-size: 18px;}					 
+
+#DownloadResume
 			   {font-family: 'ArvoBold';
 			   text-transform:uppercase;
 			   font-size:14px;
@@ -108,7 +109,6 @@ h2, p, article {font-family:'Open Sans';
 			   color:black;
 			   text-align:center;
 			   }	
-			
 				
 #LineBreak { position:absolute;
 			 margin:40px 0px 20px 0px; }

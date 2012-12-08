@@ -10,7 +10,6 @@ Supports Thumbs: false
 
 .theme-bar.slider-wrapper {
     position: relative;
-    border: 1px solid #333;
     overflow: hidden;
 
 }
@@ -78,8 +77,8 @@ Supports Thumbs: false
 	top: auto;
 	bottom: 10px;
 	z-index: 11;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 13px;
+	font-family: 'Open Sans';
+	font-size: 10px;
 	line-height: 20px;
 	opacity: 0.5;
     -webkit-transition: all 200ms ease-in-out;
