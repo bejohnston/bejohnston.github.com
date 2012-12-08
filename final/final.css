@@ -91,15 +91,17 @@ h2, p, article {font-family:'Open Sans';
 				font-size:13px;
 				padding:5px 0px 0px 0px;
    }
+
    
 #SpeechBubble { position:absolute;
 				margin:75px 0px 0px 660px;}
 
 #SpeechBubbleWords { position:absolute;
-					 margin:93px 0px 0px 800px;
+					 margin:110px 0px 0px 775px;
 					 text-align:center;}
-					 
-#ShootMessage, #DownloadResume
+
+#WorkWith  {font-size: 18px;}					 
+#DownloadResume
 			   {font-family: 'ArvoBold';
 			   text-transform:uppercase;
 			   font-size:14px;
@@ -127,9 +129,6 @@ p { position:absolute;
 	color:black;
 	font-size:8px;
   }
-  
-#BroadsideLayout {position:absolute;
-			      margin:90px 0px 10px 140px;}
 			      
 section {position:absolute;
 		 width:100%;
