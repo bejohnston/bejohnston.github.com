@@ -95,15 +95,14 @@ h2, p, article {font-family:'Open Sans';
 				padding:5px 0px 0px 0px;
    }
    
-article {width:50%; 
-		float:left;}
+article {width:45%; 
+		float:left;
+		padding:0px 40px 0px 0px;}
    
 h3 {font-family: 'ArvoBold';
 	font-size:13px;
 	padding:5px 0px 5px 0px;}
    
-#BalloonPoster { float:right;
-				 }  
 
    
 #SpeechBubble { position:absolute;
@@ -146,9 +145,14 @@ p { position:absolute;
   }
 			      
 section {position:absolute;
-		 width:60%;
+		 width:70%;
 		 margin:360px 0px 0px 200px;
+		 padding: 0px 10px 0px 0px;
 		 }	 
+
+		 
+#BalloonPoster { float:right;
+				}
 		 
 
 
