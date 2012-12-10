@@ -131,26 +131,32 @@ p { position:absolute;
 	
 section {position:absolute;
 		 width:100%;
-		 margin:235px 0px 0px 200px;
-		 }
+		 margin:235px 0px 0px 200px;}
+
 		 
 #Blakey {position:absolute;
-				margin:120px 0px 0px 0px;}
+				margin:120px 0px 0px 0px;
+				box-shadow:2px 4px 6px grey;}
 
 #DreamCatcher {position:absolute;
-				margin:120px 0px 0px 610px;}
+				margin:120px 0px 0px 610px;
+				box-shadow:2px 4px 6px grey;}
 				
 #LetterE      {position:absolute;
-				margin:320px 0px 0px 0px;}
+				margin:320px 0px 0px 0px;
+				box-shadow:2px 4px 6px grey;}
 				
 #Pattern2      {position:absolute;
-				margin:320px 0px 0px 310px;}
+				margin:320px 0px 0px 310px;
+				box-shadow:2px 4px 6px grey;}
 
 #Pattern       {position:absolute;
-				margin:320px 0px 0px 610px;}
+				margin:320px 0px 0px 610px;
+				box-shadow:2px 4px 6px grey;}
 				
 #SongPoster     {position:absolute;
-				margin:120px 0px 0px 310px;}
+				margin:120px 0px 0px 310px;
+				box-shadow:2px 4px 6px grey;}
 				
 		 
 
