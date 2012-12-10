@@ -56,14 +56,18 @@ table {
 			 }
 
 body {  width:960px;
+		height:auto;
 	 }
 	 
 a {text-decoration:none;
    color:black;}
+
+
 	 
 #BackgroundImage { postion:absolute;
 				   margin:0;
 				   width:100%;}
+				   
 
 header {position:absolute;
 		width:100%;
@@ -90,6 +94,15 @@ h2, p, article {font-family:'Open Sans';
 				font-size:13px;
 				padding:5px 0px 0px 0px;
    }
+   
+article {width:45%; 
+		float:left;
+		padding:0px 40px 0px 0px;}
+   
+h3 {font-family:'OpenSans';
+	font-size:30px;
+	padding:5px 0px 5px 0px;}
+   
 
    
 #SpeechBubble { position:absolute;
@@ -128,21 +141,21 @@ p { position:absolute;
 	width:100%;
 	color:black;
 	font-size:8px;
+	padding:5px;
   }
-	
+			      
 section {position:absolute;
-		 width:100%;
-		 margin:235px 0px 0px 200px;
-		 }
+		 width:70%;
+		 margin:360px 0px 0px 200px;
+		 padding: 0px 10px 0px 0px;
+		 }	 
+
 		 
-article {position:absolute;
-		 margin:120px 0px 0px 100px;
-		 width:25%;
-		 text-align:right;}
+#AboutMe { float:right;
+				}
 		 
-#AboutMePicture {position:absolute;
-				 padding:0px;
-				 margin:100px 0px 0px 470px;}
+
+
 
 @font-face {
     font-family: 'ArvoRegular';
