@@ -56,11 +56,18 @@ body
 text-align: center;
 margin: auto; 
 width=960px;
-background-color:rgb(6,115,108);
+background-color:rgb(54,191,166);
 }
 
-h1 {font-family:'BebasNeueRegular';
-	color:white;}
+#SiteWrapper 
+{
+position:relative;
+}
+
+
+
+
+
 
 @font-face {
     font-family: 'BebasNeueRegular';
