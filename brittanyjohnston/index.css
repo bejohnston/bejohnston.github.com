@@ -69,8 +69,8 @@ width:100%;
 {
 padding:40px;
 width:100%;
-margin:auto;
-height:300px;
+margin:0;
+height:180px;
 background-color:rgb(242,112,82);
 position:relative;
 }
@@ -85,30 +85,12 @@ color:white;
 
 h2 {
 font-family: 'BebasNeueRegular';
-letter-spacing: 1.5px;
-font-size:1.5em;
+letter-spacing: 2px;
+font-size:1em;
 text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
 }
 
-#Designs 
-{
-position:relative;
-text-align:left;
-left:300px;
-}
-
-#Illustrations
-{
-position:relative;
-text-align:left;
-left:300px;
-}
-
-#CheckIt 
-{
-float:right;
-}
 	
 #Work 
 {
@@ -116,6 +98,26 @@ padding:40px;
 width:100%;
 background-color:rgb(242,217,176);
 position:relative;
+}
+
+
+#Designs 
+{
+position:relative;
+text-align:left;
+left:150px;
+}
+
+#Illustrations
+{
+position:relative;
+text-align:left;
+left:150px;
+}
+
+#CheckIt 
+{
+float:right;
 }
 
 #ContactMe 
