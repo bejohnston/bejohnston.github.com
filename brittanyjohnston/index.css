@@ -65,19 +65,9 @@ position:relative;
 width:100%;
 }
 
-#NeatStuff 
-{
-padding:40px;
-width:100%;
-margin:0;
-height:180px;
-background-color:rgb(242,112,82);
-position:relative;
-}
-
 h1 {
 font-family: 'BebasNeueRegular';
-letter-spacing: 1.5px;
+letter-spacing: 2px;
 font-size:4em;
 text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
@@ -86,11 +76,28 @@ color:white;
 h2 {
 font-family: 'BebasNeueRegular';
 letter-spacing: 2px;
-font-size:1em;
+font-size:1.5em;
+color:rgb(89,47,22);
+}
+
+h3
+{
+font-family: 'BebasNeueRegular';
+letter-spacing: 2px;
+font-size:1.5em;
 text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
 }
 
+#NeatStuff 
+{
+padding:20px 40px 20px 40px;
+width:100%;
+height:60px;
+margin-top:20px;
+position:relative;
+background-color:rgb(242,112,82)
+}
 	
 #Work 
 {
@@ -98,21 +105,22 @@ padding:40px;
 width:100%;
 background-color:rgb(242,217,176);
 position:relative;
+height:500px;
+margin-top:20px;
 }
-
 
 #Designs 
 {
 position:relative;
 text-align:left;
-left:150px;
+
 }
 
 #Illustrations
 {
 position:relative;
 text-align:left;
-left:150px;
+top:180px;
 }
 
 #CheckIt 
@@ -120,14 +128,22 @@ left:150px;
 float:right;
 }
 
-#ContactMe 
+#Information 
 {
 padding:40px;
 width:100%;
-background-color:rgb(89,47,22);
+background-color:rgb(242,112,82);
 position:relative;
+height:300px;
+margin-top:20px;
+margin-bottom:20px;
 }
 
+#AboutMe
+{
+text-align:left;
+width:30%;
+}
 
 @font-face {
     font-family: 'BebasNeueRegular';
