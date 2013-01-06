@@ -98,6 +98,13 @@ margin-top:20px;
 position:relative;
 background-color:rgb(242,112,82)
 }
+
+#Slider
+{
+margin:20px 0px 20px 0px;
+text-align:center;
+
+}
 	
 #Work 
 {
@@ -106,7 +113,7 @@ width:100%;
 background-color:rgb(242,217,176);
 position:relative;
 height:500px;
-margin-top:20px;
+
 }
 
 #Designs 
