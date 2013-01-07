@@ -101,7 +101,7 @@ background-color:rgb(242,112,82)
 
 #Slider
 {
-margin:20px 0px 0px 0px;
+margin:20px 0px 20px 0px;
 text-align:center;
 
 }
@@ -113,8 +113,12 @@ width:100%;
 background-color:rgb(242,217,176);
 position:relative;
 height:500px;
+margin-top:20px;
 
 }
+
+#DesignTitle
+{text-align:left;}
 
 #Designs 
 {
@@ -124,13 +128,6 @@ padding:40px;
 
 }
 
-#Illustrations
-{
-position:relative;
-text-align:left;
-top:180px;
-padding:40px;
-}
 
 #CheckIt 
 {
