@@ -89,6 +89,16 @@ text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
 }
 
+h4
+{
+font-family: 'BebasNeueRegular';
+letter-spacing: 2px;
+font-size:1em;
+text-shadow:2px 2px 2px rgb(89,47,22);
+color:white;
+}
+
+
 #NeatStuff 
 {
 padding:20px 0px 20px 0px;
@@ -171,6 +181,14 @@ margin-bottom:20px;
 padding:40px;
 text-align:left;
 width:30%;
+}
+
+p 
+{
+margin-top:10px;
+font-family: 'Istok Web';
+font-size:.75em;
+line-height:15px;
 }
 
 @font-face {
