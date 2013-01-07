@@ -106,7 +106,7 @@ text-align:center;
 
 }
 	
-#Work 
+#DesignWork 
 {
 padding:0px;
 width:100%;
@@ -114,13 +114,34 @@ background-color:rgb(242,217,176);
 position:relative;
 height:500px;
 margin-top:20px;
-
+margin-bottom:20px;
 }
 
 #DesignTitle
 {text-align:left;}
 
-#Designs 
+#Design 
+{
+position:relative;
+text-align:left;
+padding:40px;
+
+}
+
+#IllustrationWork 
+{
+padding:0px;
+width:100%;
+background-color:rgb(242,217,176);
+position:relative;
+height:500px;
+margin-top:20px;
+}
+
+#IllustrationTitle
+{text-align:left;}
+
+#Illustration 
 {
 position:relative;
 text-align:left;
@@ -140,7 +161,7 @@ padding:0px;
 width:100%;
 background-color:rgb(242,112,82);
 position:relative;
-height:300px;
+height:400px;
 margin-top:20px;
 margin-bottom:20px;
 }
