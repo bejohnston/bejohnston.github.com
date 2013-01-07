@@ -183,6 +183,12 @@ text-align:left;
 width:30%;
 }
 
+#ResumeStar
+{
+float:right;
+margin-top:30px;
+}
+
 p 
 {
 margin-top:10px;
