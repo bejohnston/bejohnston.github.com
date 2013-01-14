@@ -86,6 +86,7 @@ font-family: 'PacificoRegular';
 font-size:1.5em;
 text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
+padding:20px;
 }
 
 h4
@@ -118,6 +119,15 @@ letter-spacing: 2px;
 font-size:2.7em;
 color:rgb(242,217,176);
 letter-spacing: 2px;
+			}
+			
+#elipsis {
+font-family: 'PacificoRegular';
+letter-spacing: 2px;
+font-size:2.7em;
+color:rgb(242,217,176);
+letter-spacing: 2px;
+margin:0px;
 			}
 
 
