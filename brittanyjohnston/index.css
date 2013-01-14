@@ -98,6 +98,15 @@ text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
 }
 
+#topbanner {margin:20px 0px 0px 0px;}
+
+#elipsis {
+font-family: 'PacificoRegular';
+letter-spacing: 2px;
+font-size:2.7em;
+color:rgb(242,217,176);
+letter-spacing: 2px;
+			}
 
 #NeatStuff 
 {
@@ -165,22 +174,33 @@ padding:40px;
 float:right;
 }
 
-#Information 
+#AboutMeSection
 {
 padding:0px;
 width:100%;
-background-color:rgb(242,112,82);
+background-color:rgb(242,217,176);
 position:relative;
-height:400px;
+height:180px;
 margin-top:20px;
 margin-bottom:20px;
 }
 
-#AboutMe
+#AboutMe, #FindMe
 {
 padding:40px;
 text-align:left;
-width:30%;
+width:50%;
+}
+
+#FindMeSection
+{
+padding:0px;
+width:100%;
+background-color:rgb(242,217,176);
+position:relative;
+height:200px;
+margin-top:20px;
+margin-bottom:20px;
 }
 
 #ResumeStar
@@ -204,6 +224,20 @@ line-height:15px;
          url('Fonts/BebasNeue-webfont.woff') format('woff'),
          url('Fonts/BebasNeue-webfont.ttf') format('truetype'),
          url('Fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'PacificoRegular';
+    src: url('Pacifico-webfont.eot');
+    src: url('Pacifico-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Pacifico-webfont.woff') format('woff'),
+         url('Pacifico-webfont.ttf') format('truetype'),
+         url('Pacifico-webfont.svg#PacificoRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 
