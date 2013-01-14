@@ -82,7 +82,7 @@ color:rgb(89,47,22);
 
 h3
 {
-font-family:'PacificoRegular';
+font-family: 'PacificoRegular';
 font-size:1.5em;
 text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
@@ -107,7 +107,7 @@ color:rgb(242,217,176);
 letter-spacing: 2px;
 			}
 
-#NeatStuff 
+#Header 
 {
 padding:20px 0px 20px 0px;
 width:100%;
