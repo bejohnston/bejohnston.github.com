@@ -53,19 +53,16 @@ table {
 
 body
 {
-padding:0;
 margin:0 auto; 
 width:100%;
 background-color:rgb(54,191,166);
-
 }
 
 #SiteWrapper 
 {
-position:relative;
 text-align:center;
 margin:0 auto; 
-width:960px;
+width:100%;
 }
 
 h1 {
@@ -85,7 +82,7 @@ color:rgb(89,47,22);
 
 h3
 {
-font-family: Arial;
+font-family: 'PacificoRegular';
 font-size:1.5em;
 text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
@@ -106,7 +103,10 @@ margin-top:10px;
 font-family: 'Istok Web';
 font-size:.75em;
 line-height:15px;
+width:100%;
 }
+
+a {text-decoration:none;}
 
 #topbanner {
 margin:100px 0px 0px 0px;
@@ -120,33 +120,48 @@ color:rgb(242,217,176);
 letter-spacing: 2px;
 			}
 
+
 #Nav
 {
 padding:20px 0px 20px 0px;
 width:100%;
-height:60px;
-margin-top:0px;
+top:0px;
+left:0px;
+right:0px;
 position:fixed;
-background-color:rgb(242,112,82)
-}
-
-
-#Slider
-{
-margin:30px 0px 20px 0px;
-text-align:center;
+background-color:rgb(89,47,22)
 
 }
+
+ul
+{float:left;
+}
+
+li {float:left;
+padding:10px;
+}
+
+li a {
+		color:white;
+		font-family: 'BebasNeue';
+		font-size:1em;
+		letter-spacing: 2px;}
+		
+#Resume 
+{font-family: 'PacificoRegular';
+ color:white;
+ font-size:1em;
+ margin:10px 30px 0px 0px;
+ float:right;}
+ 
+
 	
 #DesignWork 
 {
 padding:0px;
 width:100%;
 background-color:rgb(242,217,176);
-position:relative;
 height:500px;
-margin-top:20px;
-margin-bottom:20px;
 }
 
 
@@ -158,29 +173,24 @@ margin-bottom:20px;
 padding:0px;
 width:100%;
 background-color:rgb(242,217,176);
-position:relative;
 height:500px;
-margin-top:20px;
 }
+
 
 
 #AboutMeSection
 {
+margin-top:20px;
 padding:0px;
+text-align:left;
 width:100%;
 background-color:rgb(242,112,82);
-position:relative;
 height:180px;
-margin-top:20px;
-margin-bottom:20px;
 }
 
 #AboutMe
-{
-padding:40px;
-text-align:left;
-width:90%;
-}
+
+{padding:40px;}
 
 #FindMe
 {
@@ -193,11 +203,8 @@ width:50%;
 {
 padding:0px;
 width:100%;
-background-color:rgb(89,47,22);
-position:relative;
+background-color:rgb(242,112,82);
 height:200px;
-margin-top:20px;
-margin-bottom:20px;
 }
 
 
@@ -219,11 +226,11 @@ margin-bottom:20px;
 
 @font-face {
     font-family: 'PacificoRegular';
-    src: url('Pacifico-webfont.eot');
-    src: url('Pacifico-webfont.eot?#iefix') format('embedded-opentype'),
-         url('Pacifico-webfont.woff') format('woff'),
-         url('Pacifico-webfont.ttf') format('truetype'),
-         url('Pacifico-webfont.svg#PacificoRegular') format('svg');
+    src: url('Fonts/Pacifico-webfont.eot');
+    src: url('Fonts/Pacifico-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Fonts/Pacifico-webfont.woff') format('woff'),
+         url('Fonts/Pacifico-webfont.ttf') format('truetype'),
+         url('Fonts/Pacifico-webfont.svg#PacificoRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 
