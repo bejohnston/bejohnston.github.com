@@ -53,7 +53,7 @@ table {
 
 body
 {
-text-align: center;
+text-align:center;
 margin: auto; 
 width:960px;
 background-color:rgb(54,191,166);
@@ -82,7 +82,7 @@ color:rgb(89,47,22);
 
 h3
 {
-font-family: 'PacificoRegular';
+font-family: Arial;
 font-size:1.5em;
 text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
@@ -97,7 +97,17 @@ text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
 }
 
-#topbanner {margin:20px 0px 0px 0px;}
+p 
+{
+margin-top:10px;
+font-family: 'Istok Web';
+font-size:.75em;
+line-height:15px;
+}
+
+#topbanner {
+margin:100px 0px 0px 0px;
+}
 
 #elipsis {
 font-family: 'PacificoRegular';
@@ -107,15 +117,21 @@ color:rgb(242,217,176);
 letter-spacing: 2px;
 			}
 
-#Header 
+#Nav
 {
 padding:20px 0px 20px 0px;
-width:100%;
+width:960px;
 height:60px;
-margin-top:20px;
-position:relative;
+margin-top:0px;
+position:fixed;
 background-color:rgb(242,112,82)
 }
+
+ul {position:relative;
+	margin:0px 400px 0px 0px;}
+
+li{float:right;
+	padding:10px;}
 
 #Slider
 {
@@ -135,17 +151,9 @@ margin-top:20px;
 margin-bottom:20px;
 }
 
-#DesignTitle
-{text-align:left;
-}
 
-#Design 
-{
-position:relative;
-text-align:left;
-padding:40px;
 
-}
+
 
 #IllustrationWork 
 {
@@ -157,36 +165,26 @@ height:500px;
 margin-top:20px;
 }
 
-#IllustrationTitle
-{text-align:left;
-}
-
-#Illustration 
-{
-position:relative;
-text-align:left;
-padding:40px;
-
-}
-
-
-#CheckIt 
-{
-float:right;
-}
 
 #AboutMeSection
 {
 padding:0px;
 width:100%;
-background-color:rgb(242,217,176);
+background-color:rgb(242,112,82);
 position:relative;
 height:180px;
 margin-top:20px;
 margin-bottom:20px;
 }
 
-#AboutMe, #FindMe
+#AboutMe
+{
+padding:40px;
+text-align:left;
+width:90%;
+}
+
+#FindMe
 {
 padding:40px;
 text-align:left;
@@ -204,19 +202,8 @@ margin-top:20px;
 margin-bottom:20px;
 }
 
-#ResumeStar
-{
-float:right;
-margin:30px 40px 0px 0px;
-}
 
-p 
-{
-margin-top:10px;
-font-family: 'Istok Web';
-font-size:.75em;
-line-height:15px;
-}
+
 
 @font-face {
     font-family: 'BebasNeueRegular';
