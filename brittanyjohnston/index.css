@@ -110,29 +110,35 @@ width:100%;
 a {text-decoration:none;}
 
 #topbanner {
-margin:150px 0px 70px 0px;
+margin:100px 0px 0px 0px;
 }
 
 
 #Nav
 {
 padding:20px 0px 20px 0px;
+margin:0px;
 width:100%;
 top:0px;
 left:0px;
 right:0px;
 position:fixed;
 background-color:rgb(89,47,22)
-
 }
+
 
 ul
 {float:left;
-margin:0px 0px 0px 20px;
+padding:0px 39px 0px 0px;
+left:0px;
+background-image:url('Images/navbarribbon.png');
+background-repeat:no repeat;
+
 }
 
 li {float:left;
-padding:10px;
+padding:25px;
+
 }
 
 li a {
@@ -150,8 +156,7 @@ li a {
 
 
 #Here
-{color:rgb(242,112,82);} 
-
+{color:white;} 
 
 	
 #DesignWork 
@@ -161,8 +166,6 @@ width:100%;
 background-color:rgb(242,217,176);
 height:500px;
 }
-
-
 
 
 
