@@ -76,8 +76,9 @@ color:white;
 h2 {
 font-family: 'BebasNeueRegular';
 letter-spacing: 2px;
-font-size:1.5em;
-color:rgb(89,47,22);
+font-size:2em;
+text-shadow:2px 2px 2px rgb(89,47,22);
+color:white;
 }
 
 h3
@@ -129,7 +130,7 @@ background-color:rgb(89,47,22)
 
 ul
 {float:left;
-padding:0px 39px 0px 0px;
+padding:0px 69px 0px 0px;
 left:0px;
 background-image:url('Images/navbarribbon.png');
 background-repeat:no repeat;
@@ -147,6 +148,16 @@ li a {
 		font-size:1em;
 		letter-spacing: 2px;}
 		
+#Pinterest
+{
+margin:17px 0px 0px 10px;
+}
+
+#Twitter
+{
+margin:0px 0px 0px 25px;
+}
+
 #Resume 
 {font-family: 'PacificoRegular';
  color:rgb(242,217,176);
@@ -161,7 +172,7 @@ li a {
 	
 #DesignWork 
 {
-padding:0px;
+padding:180px 0px 180px 0px;
 width:100%;
 background-color:rgb(242,217,176);
 height:500px;
@@ -171,7 +182,7 @@ height:500px;
 
 #IllustrationWork 
 {
-padding:0px;
+padding:180px 0px 180px 0px;
 width:100%;
 background-color:rgb(242,217,176);
 height:500px;
@@ -181,16 +192,18 @@ height:500px;
 
 #AboutMeSection
 {
-padding:0px;
+padding:180px 0px 180px 0px;
 text-align:center;
 width:100%;
 background-color:rgb(242,112,82);
-height:180px;
+
 }
 
 #AboutMe
 
-{padding:40px;}
+{padding:40px;
+width:70%;
+margin:0 auto;}
 
 #FindMe
 {
@@ -200,10 +213,9 @@ padding:40px;
 #FindMeSection
 {
 text-align:center;
-padding:0px;
+padding:180px 0px 180px 0px;
 width:100%;
-background-color:rgb(242,112,82);
-height:200px;
+background-color:rgb(54,191,166);
 }
 
 
