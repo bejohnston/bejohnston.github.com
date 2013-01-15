@@ -104,7 +104,7 @@ p
 margin-top:10px;
 font-family: 'Istok Web';
 font-size:.75em;
-line-height:15px;
+line-height:20px;
 width:100%;
 }
 
@@ -150,12 +150,12 @@ li a {
 		
 #Pinterest
 {
-margin:17px 0px 0px 10px;
+margin:17px 0px 0px 20px;
 }
 
 #Twitter
 {
-margin:0px 0px 0px 25px;
+margin:0px 0px 0px 30px;
 }
 
 #Resume 
@@ -202,7 +202,7 @@ background-color:rgb(242,112,82);
 #AboutMe
 
 {padding:40px;
-width:70%;
+width:50%;
 margin:0 auto;}
 
 #FindMe
