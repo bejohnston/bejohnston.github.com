@@ -55,7 +55,7 @@ body
 {
 margin:0 auto; 
 width:100%;
-background-color:rgb(54,191,166);
+background-color:rgb(242,112,82);
 }
 
 #SiteWrapper 
@@ -112,8 +112,8 @@ a {text-decoration:none;}
 
 
 
-#TopSection {
-margin:100px 0px 0px 0px;
+#topbanner {
+margin-top:100px;
 }
 
 
@@ -240,7 +240,6 @@ padding:180px 0px 180px 0px;
 width:100%;
 background-color:rgb(54,191,166);
 }
-
 
 
 
