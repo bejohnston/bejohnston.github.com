@@ -182,9 +182,10 @@ padding:30px 15px 30px 15px;
  font-size:1em;
  letter-spacing:2px;
  padding:0px 0px 0px 10px;
- text-shadow:1px 1px 1px black;} 
+ text-shadow:1px 1px 1px black;
+ } 
  
- 
+
  
 
  
@@ -245,8 +246,8 @@ margin:0 auto;}
 
 #FindMe
 {
-padding:120px 0px 150px 0px;
-background-image:url(x);
+padding:160px 0px 160px 0px;
+background-image:url('Images/wannaknowmore.png');
 background-repeat:no-repeat;
 background-position:center;
 }
