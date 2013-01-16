@@ -74,8 +74,8 @@ color:white;
 }
 
 h2 {
-font-family: 'BebasNeueRegular';
-letter-spacing: 2px;
+font-family: 'Pacifico';
+letter-spacing: 1px;
 font-size:3em;
 text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
@@ -120,7 +120,7 @@ margin-top:100px;
 
 #Nav
 {
-padding:20px 0px 40px 0px;
+padding:20px 0px 20px 0px;
 margin:0px;
 width:100%;
 top:0px;
@@ -137,7 +137,7 @@ padding:0px 89px 0px 0px;
 left:0px;
 background-image:url('Images/navbarribbon.png');
 background-repeat:no repeat;
-position:fixed;
+
 
 }
 
@@ -155,7 +155,7 @@ li a {
 		
 a:hover {color:rgb(242,217,176);}
 		
-#Pinterest, #Twitter
+#Pinterest, #Twitter, #Instagram, #Email
 {
 padding:20px;
 }
@@ -215,7 +215,7 @@ height:500px;
 #AboutMeSection
 {
 margin:0 auto;
-padding:180px 0px 180px 0px;
+padding:210px 0px 210px 0px;
 text-align:center;
 width:100%;
 background-color:rgb(242,112,82);
@@ -225,22 +225,26 @@ background-color:rgb(242,112,82);
 #AboutMe
 
 {padding:40px;
-width:50%;
+width:40%;
 margin:0 auto;}
 
 #FindMe
 {
-padding:40px;
+padding:120px 0px 150px 0px;
+background-image:url('Images/wannaknowmore.png');
+background-repeat:no-repeat;
+background-position:center;
 }
+
 
 #FindMeSection
 {
+
 text-align:center;
 padding:180px 0px 180px 0px;
 width:100%;
 background-color:rgb(54,191,166);
 }
-
 
 
 
