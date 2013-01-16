@@ -74,12 +74,12 @@ color:white;
 }
 
 h2 {
-font-family: 'Pacifico';
-padding:60px 20px 170px 20px;
-letter-spacing: 1px;
-font-size:2.5em;
+font-family: 'BebasNeueRegular';
+padding:170px 20px 60px 20px;
+letter-spacing: 2px;
+font-size:6em;
 text-shadow:2px 2px 2px rgb(89,47,22);
-color:white;
+color:rgb(242,112,82);
 background-image:url('Images/workheadline.png');
 background-repeat:no-repeat;
 background-position:center;
@@ -87,7 +87,7 @@ background-position:center;
 
 h3
 {
-font-family: 'BebasNeueRegular';
+font-family: 'PacificoRegular';
 font-size:1.5em;
 letter-spacing:2px;
 text-shadow:2px 2px 2px rgb(89,47,22);
@@ -142,23 +142,24 @@ padding:0px 89px 0px 0px;
 left:0px;
 background-image:url('Images/navbarribbon.png');
 background-repeat:no repeat;
-
-
+background-position:left;
 }
 
-li {float:left;
+li {
+float:left;
 padding:25px;
-
 }
 
 li a {
 		color:white;
-		font-family: 'BebasNeue';
+		font-family: 'BebasNeueRegular';
 		font-size:1em;
 		letter-spacing: 2px;
-		text-shadow:1px 1px 1px black;}
+		}
 		
-a:hover {color:rgb(242,217,176);}
+li a:hover {
+text-shadow:1.5px 1.5px 1.5px black;
+}
 		
 #Pinterest, #Twitter, #Instagram, #Email
 {
@@ -180,8 +181,11 @@ padding:30px 15px 30px 15px;
  font-size:1em;
  letter-spacing:2px;
  padding:0px 0px 0px 10px
- a hover:rgb(242,112,82);
+ a hover:color:rgb('242,112,82');
  text-shadow:1px 1px 1px black;} 
+ 
+ 
+
  
 
 
@@ -198,12 +202,13 @@ height:500px;
 
 #Row1
 {
-padding:50px;
+padding:40px;
+
 }
 
 #Lemons 
-{padding:25px;
- float:left;}
+ {float:left;
+  padding:0px 10px 0px 0px;}
 
 
 #IllustrationWork 
@@ -236,7 +241,7 @@ margin:0 auto;}
 #FindMe
 {
 padding:120px 0px 150px 0px;
-background-image:url('Images/wannaknowmore.png');
+background-image:url(x);
 background-repeat:no-repeat;
 background-position:center;
 }
