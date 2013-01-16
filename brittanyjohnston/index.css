@@ -151,7 +151,7 @@ li a {
 		font-family: 'BebasNeue';
 		font-size:1em;
 		letter-spacing: 2px;
-		text-shadow:2px 2px 2px rgb(89,47,22);}
+		text-shadow:1px 1px 1px black;}
 		
 a:hover {color:rgb(242,217,176);}
 		
@@ -175,7 +175,8 @@ padding:20px;
  font-size:1em;
  letter-spacing:2px;
  padding:0px 0px 0px 10px
- a hover:rgb(242,112,82);} 
+ a hover:rgb(242,112,82);
+ text-shadow:1px 1px 1px black;} 
  
 
 
