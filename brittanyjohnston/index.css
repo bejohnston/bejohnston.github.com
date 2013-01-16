@@ -114,6 +114,7 @@ a {text-decoration:none;}
 
 #topbanner {
 margin:100px 0px 0px 0px;
+background-image:url('Images/papertexture.jpg');
 }
 
 
@@ -161,7 +162,7 @@ padding:20px;
 
 #Resume 
 {font-family: 'PacificoRegular';
- color:rgb(242,217,176);
+ color:white;
  font-size:1em;
  margin:20px 30px 0px 0px;
  float:right;}
@@ -186,8 +187,13 @@ height:500px;
 }
 
 
+#Row1
+{
+padding:50px;
+}
+
 #Lemons 
-{padding:50px;
+{padding:25px;
  float:left;}
 
 
