@@ -111,6 +111,7 @@ font-family: 'Istok Web';
 font-size:.75em;
 line-height:20px;
 width:100%;
+color:rgb(89,47,22)
 }
 
 a {text-decoration:none;}
@@ -195,28 +196,29 @@ padding:30px 15px 30px 15px;
 padding:180px 0px 180px 0px;
 width:100%;
 background-color:rgb(242,217,176);
-height:500px;
+height:800px;
 
 }
 
 
-#Row1
+#Row1,#Row2
 {
-padding:40px;
+padding:0px 40px 0px 90px;
 
 }
+
 
 #Lemons 
  {float:left;
-  padding:0px 10px 0px 0px;}
+}
 
 
 #IllustrationWork 
 {
-padding:180px 0px 180px 0px;
+padding:0px 0px 180px 0px;
 width:100%;
 background-color:rgb(242,217,176);
-height:500px;
+height:800px;
 
 }
 
