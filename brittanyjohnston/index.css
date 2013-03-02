@@ -145,7 +145,7 @@ background-position:left;
 li {
 float:left;
 padding:25px;
-text-shadow:1.5px 1.5px 1.5px black;
+text-shadow:none;
 }
 
 li a {
@@ -156,7 +156,8 @@ li a {
 		}
 		
 li a:hover {
-text-shadow:none;
+
+text-shadow:1.5px 1.5px 1.5px black;
 }
 		
 #Pinterest, #Twitter, #Instagram, #Email
@@ -243,7 +244,7 @@ text-align:left;
 #FindMe
 {
 padding:160px 0px 160px 0px;
-background-image:url('Images/wannaknowmore.png');
+
 background-repeat:no-repeat;
 background-position:center;
 }
@@ -252,7 +253,7 @@ background-position:center;
 #FindMeSection
 {
 text-align:center;
-padding:160px 0px 160px 0px;
+padding:0px 0px 160px 0px;
 width:100%;
 background-color:rgb(242,217,176);
 }
