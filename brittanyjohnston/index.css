@@ -155,7 +155,7 @@ li a {
 		letter-spacing: 2px;
 		}
 		
-.Here,li a:hover {
+li a:hover {
 
 text-shadow:1.5px 1.5px 1.5px black;
 }
@@ -166,16 +166,24 @@ padding:30px 15px 30px 15px;
 }
 
 
-#Resume 
+.Resume 
 {font-family: 'PacificoRegular';
  color:white;
  font-size:1em;
  margin:20px 30px 0px 0px;
  float:right;}
 
-
 .Here
-{color:white;
+{
+color:white;
+ font-size:1em;
+ letter-spacing:2px;
+ padding:0px 0px 0px 10px;
+ font-family: 'BebasNeueRegular';
+}
+
+.Resume a:hover
+{color:rgb(242,217,176);
  font-size:1em;
  letter-spacing:2px;
  padding:0px 0px 0px 10px;
