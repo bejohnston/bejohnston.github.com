@@ -155,7 +155,7 @@ li a {
 		letter-spacing: 2px;
 		}
 		
-li a:hover {
+.Here,li a:hover {
 
 text-shadow:1.5px 1.5px 1.5px black;
 }
@@ -176,12 +176,13 @@ padding:30px 15px 30px 15px;
 
 .Here
 {color:white;
- font-family: 'BebasNeueRegular';
  font-size:1em;
  letter-spacing:2px;
  padding:0px 0px 0px 10px;
+ font-family: 'BebasNeueRegular';
  } 
  
+
 
  
 
