@@ -88,7 +88,7 @@ background-position:center;
 h3
 {
 font-family: 'PacificoRegular';
-font-size:1.5em;
+font-size:1.25em;
 letter-spacing:2px;
 text-shadow:2px 2px 2px rgb(89,47,22);
 color:white;
@@ -110,11 +110,10 @@ padding:20px 0px 60px 0px;
 
 p 
 {
-margin-top:10px;
-font-family: 'Istok Web';
+margin-top:80px;
+font-family: 'Archivo Narrow', sans-serif;
 font-size:.75em;
-line-height:20px;
-width:100%;
+line-height:30px;
 color:black;
 }
 
@@ -143,7 +142,7 @@ background-color:rgb(89,47,22)
 
 ul
 {float:left;
-padding:0px 103px 0px 0px;
+padding:0px 89px 0px 0px;
 left:0px;
 background-image:url('Images/navbarribbon.png');
 background-repeat:no repeat;
@@ -186,7 +185,6 @@ padding:30px 15px 30px 15px;
  font-size:1em;
  letter-spacing:2px;
  padding:0px 0px 0px 10px;
- text-shadow:1px 1px 1px black;
  } 
  
 
@@ -222,33 +220,31 @@ padding:0px;
 }
 
 
-#IllustrationWork 
-{
-padding:0px 0px 180px 0px;
-width:100%;
-background-color:rgb(242,217,176);
-height:800px;
-
-}
-
-
 
 #AboutMeSection
 {
 margin:0 auto;
 padding:80px 0px 160px 0px;
 text-align:center;
-width:100%;
+width:80%;
 background-color:rgb(242,217,176);
 
 }
 
 #AboutMe
 
-{padding:40px;
-width:40%;
-margin:0 auto;
+{
+margin-top:0px;
+font-family: 'Archivo Narrow', sans-serif;
+font-size:1.75em;
+line-height:50px;
+color:black;
+padding:40px;
+width:100%;
+text-align:left;
 }
+
+#firstsentence {color:rgb(54,191,166);}
 
 #FindMe
 {
