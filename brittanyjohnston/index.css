@@ -55,7 +55,7 @@ body
 {
 margin:0 auto; 
 width:100%;
-background-color:rgb(242,112,82);
+background-color:rgb(242,217,176);
 }
 
 #SiteWrapper 
@@ -115,7 +115,7 @@ font-family: 'Istok Web';
 font-size:.75em;
 line-height:20px;
 width:100%;
-color:rgb(89,47,22)
+color:black;
 }
 
 a {text-decoration:none;}
@@ -239,7 +239,7 @@ margin:0 auto;
 padding:80px 0px 160px 0px;
 text-align:center;
 width:100%;
-background-color:rgb(242,112,82);
+background-color:rgb(242,217,176);
 
 }
 
@@ -265,7 +265,7 @@ background-position:center;
 text-align:center;
 padding:160px 0px 160px 0px;
 width:100%;
-background-color:rgb(54,191,166);
+background-color:rgb(242,217,176);
 }
 
 
