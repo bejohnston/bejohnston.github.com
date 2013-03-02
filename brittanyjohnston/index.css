@@ -74,10 +74,10 @@ color:white;
 }
 
 h2 {
-font-family: 'BebasNeueRegular';
-padding:170px 20px 60px 20px;
+font-family: 'PacificoRegular';
+padding:230px 20px 60px 20px;
 letter-spacing: 2px;
-font-size:6em;
+font-size:3em;
 text-shadow:2px 2px 2px rgb(89,47,22);
 color:rgb(242,112,82);
 background-image:url('Images/workheadline.png');
@@ -87,25 +87,18 @@ background-position:center;
 
 h3
 {
-font-family: 'PacificoRegular';
-font-size:1.25em;
-letter-spacing:2px;
-text-shadow:2px 2px 2px rgb(89,47,22);
-color:white;
-padding:200px 20px 40px 20px;
-background-image:url('Images/topofaboutme.png');
-background-repeat:no-repeat;
-background-position:center;
+font-family: 'Archivo Narrow', sans-serif;
+font-size:1.75em;
+color:rgb(89,47,22);
+padding:0px 0px 40px 0px;
 }
 
 h4
 {
-font-family: 'BebasNeueRegular';
-letter-spacing: 2px;
-font-size:2em;
-text-shadow:2px 2px 2px rgb(89,47,22);
-color:white;
-padding:0px 0px 60px 0px;
+font-family: 'Archivo Narrow', sans-serif;
+font-size:1em;
+color:rgb(89,47,22);
+padding:0px 0px 40px 0px;
 }
 
 p 
@@ -114,7 +107,7 @@ margin-top:2px;
 font-family: 'Archivo Narrow', sans-serif;
 font-size:.75em;
 line-height:30px;
-color:black;
+color:rgb(89,47,22);
 }
 
 a {text-decoration:none;}
@@ -200,7 +193,7 @@ padding:30px 15px 30px 15px;
 	
 #DesignWork 
 {
-padding:160px 0px 160px 0px;
+padding:140px 0px 160px 0px;
 width:100%;
 background-color:rgb(242,217,176);
 height:800px;
@@ -225,7 +218,7 @@ padding:0px;
 #AboutMeSection
 {
 margin:0 auto;
-padding:160px 0px 160px 0px;
+padding:280px 0px 160px 0px;
 text-align:center;
 width:60%;
 background-color:rgb(242,217,176);
@@ -238,16 +231,13 @@ background-color:rgb(242,217,176);
 margin-top:0px;
 font-family: 'Archivo Narrow', sans-serif;
 font-size:1.75em;
-line-height:50px;
-color:black;
+line-height:40px;
 padding:0px 40px 40px 40px;
 width:100%;
 text-align:left;
 }
 
 #firstsentence {color:rgb(54,191,166);
-				font-family: 'PacificoRegular';
-				font-size:1em;
 				}
 				
 #FindMe
@@ -261,7 +251,6 @@ background-position:center;
 
 #FindMeSection
 {
-
 text-align:center;
 padding:160px 0px 160px 0px;
 width:100%;
