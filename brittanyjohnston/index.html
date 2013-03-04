@@ -57,6 +57,9 @@
 });
 </script>
 
+		<script type="text/javascript" src="Shadowbox/shadowbox.js"></script>
+		<link rel="stylesheet" href="Shadowbox/shadowbox.css" type="text/css" media="screen" />
+
 
 
     </head>
@@ -87,16 +90,22 @@
     <div id="AboutMeSection">
      <br>
     <div id="AboutMe">
-   <h4>I put a lot of energy into everything I do, even beyond being a designer.</h4>
+   <h4>Even beyond being a designer, I put a lot of energy into everything I do.</h4>
     <p>
-    I've been creating as for as long as I can remember and ever since have made it essential to my everyday life. 
-    Currently, I'm a junior graphic design major at Massachusetts College of Art and Design. 
-    I'm highly involved in all my classes and like learn as much as I can from the world around me to improve my work. I often draw inspiration from my illustrations and other doodles I 
-    make in my sketchbooks. It is one of my beliefs that illustration and graphic design go hand-in-hand and for that reason I practice both quite frequently. 
+    I've been creating as for as long as I can remember and have made it an essential to make something new everyday. 
+    Being a designer only allows me to carry out my passion and continue to grow and expand my skills. 
     <br>
     <br>
-    When I'm not going crazy working on new projects, you can usually find me monkeying around with my friends, catching up on the latest T.V. show, or playing my guitar. 
-    I also have an obsession for hand-lettering in which I like to practice doing whenever possible. 
+    Currently, I'm a junior Graphic Design major at Massachusetts College of Art and Design. 
+    I'm immensely involved in all my classes and like to learn as much as I can from the world around me to improve my work. 
+    I often draw inspiration from my illustrations and other doodles I make in my sketchbooks but still maintain a high standard for clean and effective designs. 
+    It has always been one of my beliefs that Illustration and Graphic Design go hand-in-hand and for that reason, I practice both quite frequently.
+    <br>
+    <br>
+    I originally hail from a small farm town in North Stonington, CT but currently reside as a city girl in Boston, MA. 
+    When I'm not working away on my next big project, I am usually surrounded by my friends, exploring the city, or playing my guitar. 
+    I also have a huge obsession for hand-lettering and calligraphy, it makes all my To-Do lists look much more fun to look at in the end. 
+    
     <p>
     
     
@@ -108,14 +117,15 @@
 <div id="DesignWork">
 <h2>Here's some stuff I've made</h2>
 
-
-<div id="Row1">
-<div ='BalloonPoster'>  
     
- </div>  
+<div id="Row1">
 <div id="Lemons">
-<a href="Images/Work/View1.jpg" rel="lightbox"><img src="images/WorkPreview/whenlifegivesyoulemonspreview.png"></a>
-    <a href="Images/WorkPreview/whenlifegivesyoulemonspreview.png" rel="lightbox"></a>
+<a rel="shadowbox[recipecards]" href="Images/Work/View1.jpg">
+	<img src="Images/WorkPreview/whenlifegivesyoulemonspreview.png"/>
+</a>
+<a rel="shadowbox[recipecards]" href="Images/Work/View2.jpg"></a>
+<a rel="shadowbox[recipecards]" href="Images/Work/View3.jpg"></a>
+<a rel="shadowbox[recipecards]" href="Images/Work/View4.jpg"></a>
 
 </div>
 </div>
@@ -123,9 +133,6 @@
 
 <div id="Row2">
 <div id="Lemons">
-<a href="Images/WorkPreview/whenlifegivesyoulemonspreview.png" rel="lightbox"><img src="images/WorkPreview/whenlifegivesyoulemonspreview.png"</a>
-    <a href="Images/WorkPreview/whenlifegivesyoulemonspreview.png" rel="lightbox"></a>
-    
 <img src="Images/WorkPreview/whenlifegivesyoulemonspreview.png">
 <img src="Images/WorkPreview/whenlifegivesyoulemonspreview.png">
 <img src="Images/WorkPreview/whenlifegivesyoulemonspreview.png">
@@ -163,7 +170,9 @@
   
    </div>
 
-  
+  <script>
+  Shadowbox.init();
+  </script>
     
     
 </body>
