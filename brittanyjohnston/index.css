@@ -216,14 +216,29 @@ height:800px;
 
 #Row1,#Row2
 {
-padding:0px;
-}
-
-
-#Lemons 
- {
+padding:20px;
 
 }
+
+#RecipeCards
+{float:left;}
+
+#Book
+{float:left;}
+
+#ImpulsiveShopping
+{float:left;}
+
+#PatternDesign
+{float:left;}
+
+#Lettermarks
+{float:left;}
+
+#Elephant
+{float:left;}
+
+
 
 
 
