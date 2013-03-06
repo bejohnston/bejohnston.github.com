@@ -130,6 +130,7 @@ left:0px;
 right:0px;
 position:fixed;
 background-color:rgb(89,47,22)
+
 }
 
 
@@ -211,6 +212,7 @@ width:100%;
 background-color:rgb(242,217,176);
 height:1200px;
 
+
 }
 
 
@@ -219,6 +221,8 @@ height:1200px;
 margin:0 auto;
 height:100%;
 width:70%;
+overflow: auto;
+clear:both;
 }
 
 #RecipeCards
@@ -314,7 +318,7 @@ text-align:left;
 				
 #FindMe
 {
-padding:160px 0px 160px 0px;
+padding:180px 0px 160px 0px;
 
 background-repeat:no-repeat;
 background-position:center;
