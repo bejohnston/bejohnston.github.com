@@ -216,11 +216,11 @@ height:1200px;
 }
 
 
-#Row1,#Row2
+#Row1
 {
 margin:0 auto;
 height:100%;
-width:70%;
+width:100%;
 overflow: auto;
 clear:both;
 }
