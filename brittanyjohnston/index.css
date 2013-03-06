@@ -196,6 +196,7 @@ color:white;
 {
 float:right;
 padding:5px;
+clear:both;
 }
  
 
@@ -212,6 +213,7 @@ padding:140px 0px 160px 0px;
 width:100%;
 background-color:rgb(242,217,176);
 height:1200px;
+margin:0 auto;
 clear:both;
 
 
@@ -220,7 +222,7 @@ clear:both;
 
 #Row1
 {
-margin-left:200px;
+margin:0 auto;
 height:100%;
 width:80%;
 clear:both;
@@ -229,7 +231,7 @@ overflow: auto;
 
 #RecipeCards
 {float:left;
-margin:0 auto;}
+}
 
 #Book
 {float:left;}
@@ -300,6 +302,7 @@ padding:280px 0px 160px 0px;
 text-align:center;
 width:60%;
 background-color:rgb(242,217,176);
+clear:both;
 
 }
 
@@ -313,6 +316,7 @@ line-height:40px;
 padding:0px 40px 40px 40px;
 width:100%;
 text-align:left;
+clear:both;
 }
 
 #firstsentence {color:rgb(54,191,166);
