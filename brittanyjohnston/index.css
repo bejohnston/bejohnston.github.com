@@ -209,19 +209,21 @@ padding:5px;}
 padding:140px 0px 160px 0px;
 width:100%;
 background-color:rgb(242,217,176);
-height:800px;
+height:1200px;
 
 }
 
 
 #Row1,#Row2
 {
-padding:20px;
-
+margin:0 auto;
+height:100%;
+width:70%;
 }
 
 #RecipeCards
-{float:left;}
+{float:left;
+margin:0 auto;}
 
 #Book
 {float:left;}
@@ -282,17 +284,6 @@ padding:20px;
 
 #Blake
 {float:left;}
-
-
-
-
-
-
-
-
-
-
-
 
 
 
