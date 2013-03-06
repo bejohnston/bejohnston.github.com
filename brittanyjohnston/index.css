@@ -195,7 +195,8 @@ color:white;
 #Me 
 {
 float:right;
-padding:5px;}
+padding:5px;
+}
  
 
  
@@ -211,6 +212,7 @@ padding:140px 0px 160px 0px;
 width:100%;
 background-color:rgb(242,217,176);
 height:1200px;
+clear:both;
 
 
 }
@@ -218,11 +220,11 @@ height:1200px;
 
 #Row1
 {
-margin:0 auto;
+margin-left:100px;
 height:100%;
 width:100%;
-overflow: auto;
 clear:both;
+overflow: auto;
 }
 
 #RecipeCards
