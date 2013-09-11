@@ -71,6 +71,12 @@ background-size:100%;
 
 #SiteWrapper 
 { 
+position:relative;
+}
+
+#Name
+
+{padding: 50px 0px 0px 50px;
 }
 
 .Nav
@@ -79,7 +85,7 @@ display:block;
 line-height:1.5em;
 margin: 50px 50px 0px 50px;
 float:left;
-position:relative;
+
 }
 
 
@@ -99,8 +105,17 @@ text-shadow:1.5px 1.5px 1.5px black;
 {
 float:right;
 margin: 0px 0px 0px 150px;
-position:relative;
+
 }
+
+footer
+{
+   position:relative;
+   text-align:center;
+   margin-top:1100px;
+   background:#6cf;
+}
+
 
 
 
