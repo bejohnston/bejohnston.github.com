@@ -60,9 +60,12 @@ table {
 
 
 body
-{
-background-image:images/Homepage_Background.png;
+{ 
+background-image:url('images/Homepage_Background.png');
+background-repeat: no-repeat;
+background-position: left top;
 }
+
 
 #SiteWrapper 
 { 
