@@ -103,7 +103,7 @@ text-shadow:1.5px 1.5px 1.5px black;
 
 #PreviewWindows
 {
-float:right;
+position:relative;
 margin: 0px 0px 0px 150px;
 
 }
@@ -112,8 +112,7 @@ footer
 {
    position:relative;
    text-align:center;
-   margin-top:1100px;
-   background:#6cf;
+   margin-top:100px;
 }
 
 
