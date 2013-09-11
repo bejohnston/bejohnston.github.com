@@ -62,8 +62,9 @@ table {
 body
 { 
 background-image:url('images/Homepage_Background.png');
-background-repeat: no-repeat;
-background-position: left top;
+background-repeat:no-repeat;
+background-position:top center;
+background-size:100%;
 }
 
 
