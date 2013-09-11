@@ -55,7 +55,8 @@ body
 {
 margin:0 auto; 
 width:100%;
-background-color:rgb(255,255,255);
+background-image:Images/goodtopbanner.png;
+height:100%;
 }
 
 #SiteWrapper 
@@ -209,10 +210,9 @@ clear:both;
 	
 #DesignWork 
 {
-padding:140px 0px 160px 0px;
+padding:0px 0px 0px 0px;
 margin:0 auto; 
 width:100%;
-background-color:rgb(255,255,255);
 height:1200px;
 clear:both;
 
@@ -298,10 +298,9 @@ overflow:auto;
 #AboutMeSection
 {
 margin:0 auto;
-padding:280px 0px 160px 0px;
+padding:80px 0px 40px 0px;
 text-align:center;
 width:60%;
-background-color:rgb(255,255,255);
 clear:both;
 
 }
@@ -311,8 +310,8 @@ clear:both;
 {
 margin-top:0px;
 font-family: 'Archivo Narrow', sans-serif;
-font-size:1.75em;
-line-height:40px;
+font-size:1em;
+line-height:10px;
 padding:0px 40px 40px 40px;
 width:100%;
 text-align:left;
@@ -322,21 +321,12 @@ clear:both;
 #firstsentence {color:rgb(54,191,166);
 				}
 				
-#FindMe
-{
-padding:160px 0px 160px 0px;
-
-background-repeat:no-repeat;
-background-position:center;
-}
-
 
 #FindMeSection
 {
 text-align:center;
 padding:0px 0px 160px 0px;
 width:100%;
-background-color:rgb(54,191,166);
 }
 
 

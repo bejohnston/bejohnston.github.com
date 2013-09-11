@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+   <head>
+  	  <meta charset="UTF-8">
+      <title>Brittany Johnston</title>
+       <link rel="stylesheet" href="index.css" type="text/css" media="screen" />
+       
+  <link rel="stylesheet" href="nivo-slider/nivo-slider.css" type="text/css" media="screen" />
+                <link rel="stylesheet" href="nivo-slider/themes/default/default.css" type="text/css" media="screen" />
+                
+                <link href='http://fonts.googleapis.com/css?family=Istok+Web' rel='stylesheet' type='text/css'>
+        
+                <link href='http://fonts.googleapis.com/css?family=Tauri|Archivo+Narrow' rel='stylesheet' type='text/css'>
+      
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+		<script src="nivo-slider/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+		
+		         <script src="lightbox/js/jquery-1.7.2.min.js"></script>
+         <script src="lightbox/js/lightbox.js"></script>
+      
+         
+         <link href="lightbox/css/lightbox.css" rel="stylesheet" />
+	
+		
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		
+		
+		<script type="text/javascript">
+		$(document).ready(function() {
+ 
+        //Calculate the height of <header>
+        //Use outerHeight() instead of height() if have padding
+        var aboveHeight = $('header').outerHeight();
+ 
+	//when scroll
+        $(window).scroll(function(){
+ 
+	        //if scrolled down more than the header’s height
+                if ($(window).scrollTop() > aboveHeight){
+ 
+	        // if yes, add “fixed” class to the <nav>
+	        // add padding top to the #content 
+                (value is same as the height of the nav)
+                $('nav').addClass('fixed').css('top','0').next()
+                .css('padding-top','60px');
+ 
+                } else {
+ 
+	        // when scroll up or less than aboveHeight,
+                remove the “fixed” class, and the padding-top
+                $('nav').removeClass('fixed').next()
+                .css('padding-top','0');
+                }
+        });
+});
+</script>
+
+		<script type="text/javascript" src="Shadowbox/shadowbox.js"></script>
+		<link rel="stylesheet" href="Shadowbox/shadowbox.css" type="text/css" media="screen" />
+
+
+
+    </head>
+    
+    
+    <body>
+    
+    <div id="SiteWrapper">
+    
