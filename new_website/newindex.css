@@ -63,7 +63,8 @@ body
 { 
 background-image:url('images/Homepage_Background.png');
 background-repeat:no-repeat;
-background-position:top center;
+background-position:absolute;
+background-attachment: fixed;
 background-size:100%;
 }
 
@@ -76,8 +77,9 @@ background-size:100%;
 {
 display:block;
 line-height:1.5em;
-margin: 50px 0px 0px 100px;
+margin: 50px 50px 0px 50px;
 float:left;
+position:relative;
 }
 
 
@@ -91,6 +93,13 @@ text-decoration:none;
 li a:hover
 {
 text-shadow:1.5px 1.5px 1.5px black;
+}
+
+#PreviewWindows
+{
+float:right;
+margin: 0px 0px 0px 150px;
+position:relative;
 }
 
 
