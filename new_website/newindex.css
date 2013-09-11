@@ -72,6 +72,28 @@ background-size:100%;
 { 
 }
 
+.Nav
+{
+display:block;
+text-decoration:none;
+line-height:1.5em;
+margin: 300px 0px 0px 100px;
+}
+
+
+ul.Nav
+{
+color:black;
+float:left;
+}
+
+
+li a:hover
+{
+text-shadow:1.5px 1.5px 1.5px black;
+}
+
+
 
 
 /* Clearfix */
